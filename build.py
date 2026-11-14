@@ -90,6 +90,12 @@ def main():
     html = html.replace("<body>", "<body>" + GATE_HTML, 1)
     OUT.write_text(html, encoding="utf-8")
     print(f"generado {OUT} ({OUT.stat().st_size} bytes)")
+    # Página de inspiración (no frena el index si falla).
+    try:
+        import build_inspiracion
+        build_inspiracion.main()
+    except Exception as e:
+        print(f"AVISO: inspiración no se regeneró: {e}")
 
 if __name__ == "__main__":
     main()
