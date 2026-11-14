@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MuViProject · Portal Interno — Conocimiento por cliente</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin: 0; background: #f4f2ee; color: #2b2b2b; line-height: 1.55; }
+  header { background: #1f1f1f; color: #fff; padding: 28px 24px 22px; }
+  header h1 { margin: 0 0 4px; font-size: 26px; letter-spacing: .3px; }
+  header p { margin: 0; color: #cfc9bd; font-size: 15px; }
+  .gold { color: #e3b533; }
+  .banner { background: #8a1f1f; color: #fff; padding: 10px 24px; font-size: 14px; font-weight: 600; }
+  .banner span { font-weight: 400; opacity: .9; }
+  nav { background: #fff; border-bottom: 1px solid #ddd; padding: 10px 24px; position: sticky; top: 0; z-index: 10; }
+  nav a { margin-right: 18px; color: #6b5a1e; text-decoration: none; font-weight: 600; font-size: 14px; }
+  nav a:hover { text-decoration: underline; }
+  main { max-width: 980px; margin: 0 auto; padding: 24px; }
+  section { background: #fff; border: 1px solid #e2ddd3; border-radius: 10px; padding: 22px 26px; margin-bottom: 22px; }
+  h2 { margin: 0 0 10px; font-size: 21px; border-bottom: 2px solid #e3b533; padding-bottom: 6px; }
+  h3 { margin: 20px 0 6px; font-size: 17px; }
+  h4 { margin: 14px 0 4px; font-size: 15px; }
+  p, li { font-size: 15px; }
+  ul, ol { padding-left: 22px; }
+  li { margin-bottom: 5px; }
+  .card { background: #faf7f1; border-left: 4px solid #e3b533; padding: 12px 16px; margin: 12px 0; border-radius: 0 8px 8px 0; }
+  .warn { background: #fdf3e7; border-left: 4px solid #c47f17; padding: 12px 16px; margin: 12px 0; border-radius: 0 8px 8px 0; }
+  .good { background: #eef6ee; border-left: 4px solid #3d7a3d; padding: 12px 16px; margin: 12px 0; border-radius: 0 8px 8px 0; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; margin: 10px 0; }
+  th, td { border: 1px solid #ddd; padding: 7px 9px; text-align: left; vertical-align: top; }
+  th { background: #f4f2ee; }
+  .tag { display: inline-block; background: #606163; color: #fff; font-size: 12px; padding: 2px 8px; border-radius: 20px; margin-right: 6px; }
+  .tag.gold { background: #e3b533; color: #3a2c05; }
+  .small { font-size: 13px; color: #666; }
+  .elements { background: #f7f5f0; border: 1px solid #e2ddd3; border-radius: 8px; padding: 12px 16px; margin: 10px 0; }
+  .elements b { color: #6b5a1e; }
+  footer { max-width: 980px; margin: 0 auto; padding: 0 24px 30px; color: #777; font-size: 13px; }
+  .toc a { display: block; padding: 3px 0; color: #6b5a1e; text-decoration: none; font-size: 15px; }
+  .toc a:hover { text-decoration: underline; }
+</style>
+
+<style>
+#gate{position:fixed;inset:0;z-index:100;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#1f1f1f 0%,#4b3618 60%,#e3b533 130%);padding:20px}
+#gate.hidden{display:none}
+.gate-card{background:#fff;border-radius:14px;max-width:420px;width:100%;padding:34px 30px;box-shadow:0 20px 60px rgba(0,0,0,.35);text-align:center}
+.gate-card h1{font-family:Georgia,serif;color:#4b3618;font-size:26px;font-weight:400;letter-spacing:1px;margin:6px 0}
+.gate-card .sub{color:#606163;font-size:14px;margin:6px 0 22px}
+.gate-card label{display:block;text-align:left;font-size:13px;color:#606163;margin:12px 0 4px}
+.gate-card input{width:100%;padding:11px 12px;border:1px solid #d8d2c4;border-radius:8px;font-size:15px}
+.gate-card input:focus{outline:2px solid #e3b533}
+.gate-card button{width:100%;margin-top:16px;padding:12px;background:#4b3618;color:#fff;border:0;border-radius:8px;font-size:15px;cursor:pointer}
+.gate-card button:hover{background:#606163}
+#gate-err{color:#b3261e;font-size:13px;min-height:18px;margin-top:10px}
+.gate-note{font-size:12px;color:#999;margin-top:16px}
+</style>
+</head>
+<body>
+<!-- ============================================================
+     ACCESO (cortina visual, no seguridad real: sitio estático,
+     cualquiera que lea el código puede ver la clave).
+     Clave: MuViProject2026. Email: musadaniel@gmail.com o @muviproject.com
+     ============================================================ -->
+<script>
+var PORTAL_PASSWORD = "MuViProject2026";
+</script>
+<div id="gate">
+  <div class="gate-card">
+    <div style="color:#e3b533;font-size:15px;letter-spacing:2px">MuViProject</div>
+    <h1>Portal interno</h1>
+    <div class="sub">Conocimiento de la empresa, por cliente. Solo MuViProject.</div>
+    <form id="gate-form">
+      <label for="gate-email">Email</label>
+      <input id="gate-email" type="email" placeholder="musadaniel@gmail.com" autocomplete="username" required>
+      <label for="gate-pass">Contraseña</label>
+      <input id="gate-pass" type="password" placeholder="Contraseña" autocomplete="current-password" required>
+      <div id="gate-err"></div>
+      <button type="submit">Entrar al portal</button>
+    </form>
+    <div class="gate-note">Si no entrás, escribime por WhatsApp al (845) 699-6606.</div>
+  </div>
+</div>
+<script>
+(function(){
+  var gate = document.getElementById('gate');
+  try { if (sessionStorage.getItem('muviproject_interno_auth') === '1') { gate.classList.add('hidden'); } } catch(e){}
+  document.getElementById('gate-form').addEventListener('submit', function(ev){
+    ev.preventDefault();
+    var email = document.getElementById('gate-email').value.trim().toLowerCase();
+    var pass = document.getElementById('gate-pass').value;
+    var err = document.getElementById('gate-err');
+    var okEmail = (email === 'musadaniel@gmail.com') || (email.slice(-14) === '@muviproject.com');
+    if (!okEmail) {
+      err.textContent = 'Usá tu email de MuViProject (musadaniel@gmail.com o @muviproject.com).';
+      return;
+    }
+    if (pass !== PORTAL_PASSWORD) {
+      err.textContent = 'Contraseña incorrecta. Revisala e intentá de nuevo.';
+      return;
+    }
+    try { sessionStorage.setItem('muviproject_interno_auth', '1'); } catch(e){}
+    gate.classList.add('hidden');
+    window.scrollTo(0, 0);
+  });
+})();
+</script>
+
+<header>
+  <h1>MuViProject <span class="gold">·</span> Portal Interno</h1>
+  <p>Conocimiento de la empresa, por cliente. Investigación de mercado, sistemas de diseño y decisiones con sustento.</p>
+</header>
+<div class="banner">INTERNO — Solo MuViProject. <span>Lo de inspiración y competencia NO va al portal del cliente. Al cliente va solo el análisis y las piezas aprobadas.</span></div>
+<nav>
+  <a href="#resumen">Resumen</a>
+  <a href="#rosanna">Lo que tenía Rosanna</a>
+  <a href="#top10">Top 10 EE.UU.</a>
+  <a href="#miami">Top 5 Miami</a>
+  <a href="#sistema">Sistema de elementos</a>
+  <a href="#marca">Marca Med</a>
+  <a href="#fuentes">Fuentes</a>
+</nav>
+<main>
+
+<section id="clientes">
+  <h2>Clientes</h2>
+  <div class="card">
+    <h3 style="margin-top:0">Med Aesthetics Miami <span class="tag gold">Activo</span> <span class="tag">desde 8-nov-2026</span></h3>
+    <p><b>Dueña:</b> Rosanna Bermejo (MSN, APRN). <b>Paquete:</b> $1.500/mes. 1 jornada de filmación/mes, posteo diario, 3 videos/semana. <b>Redes:</b> TikTok, Instagram, Facebook, YouTube Shorts. <b>Anuncios:</b> Meta, tope ~$1.000/mes (CBO $33/día). <b>Portal del cliente:</b> <a href="https://muviproject.github.io/medaesthetics-portal/">medaesthetics-portal</a> (contraseña: MedAesthetics2026). <b>Regla de oro:</b> nada se publica sin la aprobación de Rosanna; Daniel revisa todo antes.</p>
+    <p class="small">Ficha completa y estado al día en el hub interno (<code>med-aesthetics-hub.md</code>). Este portal es el conocimiento, no la operación diaria.</p>
+  </div>
+  <p class="small">Próximos clientes se agregan acá con su propia sección, con la misma estructura: investigación → sistema de elementos → marca → decisiones.</p>
+</section>
+
+<section id="resumen">
+  <h2>Resumen ejecutivo — lo que aprendimos</h2>
+  <p>Investigación del 14-nov-2026: 49 posteos orgánicos + 10 anuncios de Vallure (may–oct 2026), 20 piezas del top 10 nacional por interacción y 15 piezas del top 5 de Miami. Tres fuentes, una misma conclusión.</p>
+  <ol>
+    <li><b>La pieza vende, el caption convierte.</b> La imagen lleva UNA idea (gancho + 1 dato). La información completa — precio exacto, teléfono, condiciones, credencial — vive en el caption o en el botón de la plataforma. 12 de 20 piezas top no tienen ningún CTA en la imagen.</li>
+    <li><b>Pocos elementos: mediana ~6 por pieza.</b> Rango top: 1–16. Solo 2 de 20 superan los 9. Más de 2 ideas por pieza no se ve arriba.</li>
+    <li><b>El precio casi nunca está en la imagen.</b> 3 de 20 en el top nacional (siempre descuento con motivo: 100K, Black Friday, Jeuveau Day) y 0 de 5 en Miami. Nunca precio de lista, nunca letra chica (0 de 20).</li>
+    <li><b>El teléfono no va en la imagen.</b> 1 de 20 en el top nacional, 0 de 5 en Miami. El contacto es «link in bio» o el botón de la plataforma.</li>
+    <li><b>Nadie imprime el sello de credencial en la imagen.</b> Ni Monaco (Top Morpheus8 de Norteamérica) ni No Filter (QuantumRF Top Provider 2025). Si Med imprime su Top 10% Morpheus8, es un <b>diferencial propio</b>, no una copia: sello chico, nunca titular.</li>
+  </ol>
+  <div class="warn"><b>Atención — la tarjeta Botox v7:</b> lleva ~9 elementos (foto, logo, BOTOX, precio, apoyo, CTA, teléfono, divisoria, «CALL FOR DETAILS»). Está por encima de la mediana top (~6) y es la única pieza que junta precio + teléfono + CTA + «call for details» en una sola imagen. La recomendación de mercado es sacar el teléfono de la imagen (va al caption) y dejar la pieza en 5 elementos. La decisión es de Daniel: el teléfono y el «call for details» fueron decisiones suyas y de Rosanna, no un error. Queda anotado como decisión pendiente, no como cambio aplicado.</div>
+</section>
+
+<section id="rosanna">
+  <h2>Lo que tenía Rosanna — Vallure (may–oct 2026)</h2>
+  <p>49 posteos orgánicos (9 carruseles, 20 imágenes, 20 videos) + 10 anuncios + deck de noviembre. Último post: 29-oct-2026.</p>
+  <h3>El lenguaje de Vallure</h3>
+  <ul>
+    <li><b>Foto manda, texto acompaña.</b> Foto a sangre con texto encima, casi siempre abajo o arriba a la izquierda. La foto ocupa el 70–100% de la pieza.</li>
+    <li><b>4–6 elementos por imagen:</b> logo chico + eyebrow dorado en mayúsculas + titular grande + bajada chica. Nada más.</li>
+    <li><b>La información vive en el caption,</b> largo y educativo (2–4 párrafos): explica el tratamiento, mete la credencial y el descuento, cierra con «link in bio». La imagen solo trae el gancho.</li>
+    <li><b>Sin teléfono en la imagen. Sin botón de CTA en la imagen.</b> El CTA es el botón de la plataforma (Book Now / Get Offer) o «link in bio».</li>
+    <li><b>Antes/después:</b> fotos reales, ojos tapados con barras doradas, etiquetas BEFORE / AFTER.</li>
+    <li><b>Anuncio de oferta (ej. Glow Duo 20% Off):</b> foto primer plano + 5 elementos (tratamiento, descuento gigante en serif dorada, nombre de la oferta, cinta «LIMITED TIME OFFER | CALL FOR DETAILS», logo). El body del anuncio lleva la historia.</li>
+    <li><b>Sello TOP 10%</b> como elemento de credencial, solo en algunos anuncios.</li>
+  </ul>
+  <h3>Debilidades (lo que NO hacían)</h3>
+  <ul>
+    <li>El logo cambia de lugar y de tamaño entre piezas (no hay sistema fijo).</li>
+    <li>Letra script/manuscrita en portadas de reels: NO está en el brandbook.</li>
+    <li>La información clave (precio, descuento, credencial) muchas veces queda solo en el caption, que Instagram corta.</li>
+    <li>Sin teléfono ni contacto visible en la imagen. Sin sello de credencial sistemático. Sin jerarquía de pesos (todo mayúsculas, mismo peso).</li>
+    <li>El deck de noviembre repite lo mismo, con el logo con mancha blanca (artefacto) y letra script para los nombres de tratamientos.</li>
+  </ul>
+  <div class="good"><b>Conservar de Vallure (no alejarse):</b> foto a sangre con texto encima · pocos elementos por pieza (4–6) · gancho grande + explicación en el caption · sello Top 10% · cinta dorada de oferta · antes/después real con barra dorada en los ojos.</div>
+</section>
+
+<section id="top10">
+  <h2>Top 10 medspas de EE.UU. por interacción</h2>
+  <p>20 piezas analizadas (2 por cuenta), oct–nov 2026. Cuentas: @skinconserv, @kbeautylab808, @beautybeyondaesthetics1, @skinholics.miami, @kumimedspa, @beautybybel.rn, @skinologymedspa, @skinelixerspa_miami, @theprivatesuitela, @bleuspany. <span class="small">Advertencia: solo 2 cuentas tienen interacción medida con mediana real (Skinology 0,498% y Private Suite 0,209%); las otras 8 son estimaciones de Flinque. El análisis de diseño no depende del orden exacto del ranking.</span></p>
+  <h3>Los 10 patrones</h3>
+  <ol>
+    <li><b>La foto manda.</b> 17/20 usan fotografía real como elemento principal; en 6/20 la pieza ES solo la foto (antes/después sin texto, sin logo, sin CTA).</li>
+    <li><b>Poco texto en la imagen.</b> Mediana ~16 palabras; 13/20 tienen 22 o menos. La única excepción con mucho texto es el testimonio completo (SkinConserv, ~110 palabras).</li>
+    <li><b>El CTA casi nunca está en la imagen.</b> 12/20 no tienen CTA; solo 2/20 tienen CTA de reserva (DM «GLOW» y BOOK + teléfono, ambas de @skinelixerspa_miami). La conversión se resuelve en el caption.</li>
+    <li><b>El precio casi nunca se muestra — y cuando se muestra, es un descuento.</b> 3/20 («30% OFF», «$80 off», «$1,000/$2,000 OFF»), siempre con un motivo (100K, Black Friday, Jeuveau Day), nunca precio de lista.</li>
+    <li><b>El logo es discreto y está en un lugar fijo.</b> 17/20 llevan marca, casi siempre pequeña (arriba centro o abajo derecha/centro). Nunca compite con el titular ni tapa un rostro. Solo 1 pieza lleva el lockup completo.</li>
+    <li><b>Antes/después es el formato rey de resultados.</b> 6/20. La mitad sin etiquetas (el split habla solo), la otra mitad con etiquetas mínimas; en un caso la línea APUNTA a la zona tratada (Kumi).</li>
+    <li><b>Plantilla bloqueada por serie.</b> Repiten la misma estructura pieza tras pieza («Patient Review», «SKIN NOTES», «01/06»). El sistema es la repetición, no la variedad.</li>
+    <li><b>Paleta fija de 2–3 colores por cuenta + 1–2 familias tipográficas.</b> El serif domina los titulares (8/20); el sans lleva los datos.</li>
+    <li><b>El carrusel domina (15/20), pero la portada se sostiene sola.</b> Solo 4/15 dicen «swipe» o muestran flecha.</li>
+    <li><b>La información va en capas.</b> Titular (1 frase) → 1 dato (precio, fecha o beneficio) → el detalle va en el caption o adentro del carrusel. Nada de letra chica en la imagen (0/20).</li>
+  </ol>
+  <h3>Las 5 cosas que las top NO hacen</h3>
+  <ol>
+    <li>No ponen letra chica, fine print ni disclaimers en la imagen (0/20).</li>
+    <li>No ponen el teléfono (1/20), ni dirección, ni horarios.</li>
+    <li>No saturan la pieza: mediana ~6 elementos; solo 2/20 superan los 9.</li>
+    <li>No usan el descuento como contenido habitual: solo 3/20 muestran precio, y las 3 son piezas de evento.</li>
+    <li>No ponen el logo grande al centro ni sobre rostros — y 3/20 no ponen logo en absoluto.</li>
+  </ol>
+  <p class="small">Informe completo: <code>elementos-diseno-top10-eeuu.md</code> (fichas por cuenta, tabla de las 20 piezas, imágenes en <code>elementos-top10/&lt;cuenta&gt;/</code>).</p>
+</section>
+
+<section id="miami">
+  <h2>Top 5 medspas de Miami</h2>
+  <p>15 piezas analizadas (3 por cuenta), 24-oct a 13-nov-2026. Cuentas: @monaco.medspa (28.439), @luxmedspabrickell (340, nueva), @skinneymedspa (57.488), @nofiltermiami (23.868), @viomedspa.aventura (4.265). <span class="small">Límite: las imágenes se analizaron por descripción visual del conector (el CLI no expone las URLs de los medios); los conteos son aproximados (~).</span></p>
+  <h3>Patrones comunes (los 5)</h3>
+  <ol>
+    <li><b>La imagen es gancho, no catálogo.</b> 3–10 elementos por pieza; la información completa vive en el caption.</li>
+    <li><b>Cero precio en la imagen.</b> Los 5, sin excepción. La cifra va en el caption o no va.</li>
+    <li><b>Cero teléfono en la imagen.</b> Solo No Filter lo pone en el caption. Contacto = «link in bio» o botón de la plataforma.</li>
+    <li><b>El CTA es del caption o de la última lámina.</b> Solo LUX (última lámina) y VIO lo escriben en la imagen.</li>
+    <li><b>Antes/después con fórmula fija:</b> 2 fotos + etiquetas BEFORE/AFTER + tratamiento + nº de sesiones + tiempo. Nada más.</li>
+    <li><b>El carrusel tiene estructura fija:</b> gancho → contenido/prueba → última lámina informativa (lista de servicios, contacto o CTA).</li>
+    <li><b>Nadie pone el sello de credencial en la imagen.</b> Ni Monaco (Top Morpheus8 de Norteamérica) ni No Filter (QuantumRF Top Provider 2025).</li>
+    <li><b>La membresía es gancho en 2 de 5</b> (SKINNEY, VIO), siempre como «acceso anticipado / extra», nunca como precio.</li>
+    <li><b>El Black Friday se anuncia sin cifra:</b> «Members Go First» (VIO), «Members save EXTRA» (SKINNEY).</li>
+    <li><b>Humor y comunidad juntan más interacción que la promo</b> (Halloween de SKINNEY: 164 likes).</li>
+  </ol>
+  <h3>Qué hace distinto cada uno</h3>
+  <table>
+    <tr><th>Cuenta</th><th>Ángulo</th><th>Copiar</th><th>No copiar</th></tr>
+    <tr><td><b>Monaco</b></td><td>La doctora + los plazos</td><td>Infografía de CUÁNDO hacerse cada tratamiento; reel de la doctora a cámara sin texto</td><td>Mezclar vida personal con promo; 4 piezas en un día</td></tr>
+    <tr><td><b>LUX</b></td><td>La experiencia + la reseña</td><td>Estructura de carrusel (aspiración → reseña citada → lista/CTA en última lámina); ángulo «para dos / regalo»</td><td>Cero antes/después; ausencia total de precio</td></tr>
+    <tr><td><b>SKINNEY</b></td><td>Aspiración + lista + membresía</td><td>Lista de tratamientos como «rutina de preparación»; anzuelo de miembros</td><td>Collage de pasarela como aspiración; fiesta como eje</td></tr>
+    <tr><td><b>No Filter</b></td><td>Prueba clínica + protocolo</td><td>Fórmula antes/después; carrusel que explica la tecnología; mostrar el proceso (hasta el pelado)</td><td>Bio vacía; desaparición de 3 semanas</td></tr>
+    <tr><td><b>VIO</b></td><td>Membresía + plan</td><td>Black Friday como privilegio de miembro; CTA en imagen («BOOK YOUR CONSULTATION»); vender el PLAN como producto</td><td>Publicar 1 vez cada 2 semanas</td></tr>
+  </table>
+  <p class="small">Informe completo: <code>elementos-diseno-top5-miami.md</code> (fichas por cuenta, tabla comparativa, base de mercado por tipo de pieza).</p>
+</section>
+
+<section id="sistema">
+  <h2>Sistema de elementos por tipo de pieza — base de mercado</h2>
+  <p>Esto es lo que se pone en cada pieza de Rosanna y por qué. Cada elemento tiene su sustento en la investigación de arriba. <b>La idea es no preguntarle a Rosanna qué lleva cada pieza: se le lleva la base armada.</b> Cuando un dato solo lo sabe ella (precios sin confirmar, fotos reales, orden del antes/después), eso se marca como <b>pendiente de Rosanna</b> y es lo único que se le pregunta.</p>
+
+  <h3>Tarjeta de oferta (ej. Botox $10/unidad)</h3>
+  <div class="elements"><b>5 elementos:</b> (1) foto · (2) nombre del tratamiento · (3) descuento/precio grande · (4) 1 línea de beneficio · (5) logo. La cinta «LIMITED TIME OFFER | CALL FOR DETAILS» es válida (Vallure la usaba; LUX usa la misma lógica).</div>
+  <p><b>Sustento:</b> Vallure Glow Duo (5 elementos, descuento en serif dorada); kbeauty Black Friday 30% OFF (8 elementos, % sin precio en $); beautybeyond Jeuveau Day ($80 off, 6 elementos, sin CTA en imagen); skinology 100K PROMO ($1,000/$2,000 OFF con condición de mL, 9 elementos). <b>Teléfono NO va en la imagen</b> (0/5 Miami, 1/20 nacional): va al caption. <b>CTA = botón de la plataforma.</b> <b>Sin letra chica</b> (0/20): las condiciones van al caption. El precio se muestra solo como descuento con motivo, nunca precio de lista.</p>
+
+  <h3>Antes / después</h3>
+  <div class="elements"><b>5–6 elementos:</b> (1–2) 2 fotos reales con consentimiento · (3–4) etiquetas BEFORE / AFTER · (5) tratamiento · (6) nº de sesiones + tiempo. Sin precio, sin CTA en la imagen.</div>
+  <p><b>Sustento:</b> fórmula fija de No Filter («ONE SpectraionX TREATMENT | 6 DAYS LATER») y Kumi (líneas que apuntan a la zona tratada). La variante sin etiquetas también está validada arriba (Skinholics, Skinology, BeautyByBel: el split habla solo). El descuento y la credencial van en el caption. <b>Pendiente de Rosanna:</b> fotos reales con consentimiento + orden correcto del antes/después (carruseles 10, 17 y 28-nov).</p>
+
+  <h3>Carrusel educativo</h3>
+  <div class="elements"><b>Estructura LUX:</b> lámina 0 gancho → contenido/prueba → ÚLTIMA lámina informativa (lista, contacto o CTA). 1–3 elementos por lámina.</div>
+  <p><b>Sustento:</b> LUX (aspiración → reseña citada → lista/CTA en última lámina); kbeauty «SKIN NOTES» (etiqueta de serie + pregunta + foto + «SWIPE →»); Private Suite «01/06» (serie numerada). La prueba social (reseña con fuente Google/Tripadvisor) puede ir adentro del carrusel, como hace LUX. La portada se sostiene sola: solo 4/15 portadas top dicen «swipe».</p>
+
+  <h3>Carrusel de tecnología (QuantumRF / Morpheus8)</h3>
+  <div class="elements"><b>Lámina 0 antes/después + láminas que explican qué hace la tecnología + lista de beneficios</b> (sin sedación, mínimo downtime, % de contracción).</div>
+  <p><b>Sustento:</b> No Filter QuantumRF + SyneraLift (el post con más comentarios del top 5 de Miami, 27): explica la tecnología con beneficios y responde dudas en comentarios. Es el modelo más cercano a Med por el QuantumRF.</p>
+
+  <h3>Reel con Rosanna a cámara</h3>
+  <div class="elements"><b>0 textos superpuestos.</b> Todo en audio + caption.</div>
+  <p><b>Sustento:</b> Monaco (doctora a cámara, 0 textos en pantalla) y VIO (proveedora a cámara, 0 textos). La persona es la confianza; el texto en pantalla sobra. Los subtítulos van quemados en el video (regla de Daniel), no como texto del diseño.</p>
+
+  <h3>Black Friday (27–30 nov)</h3>
+  <div class="elements"><b>Sin cifra en la imagen:</b> titular + fecha de acceso + elemento de regalo/exclusividad. La cifra y las condiciones van en el caption y en la tarjeta de oferta.</div>
+  <p><b>Sustento:</b> VIO «Members Go First» (acceso anticipado 16-nov) y SKINNEY «Members save EXTRA» (la cifra solo en caption). Precios confirmados: Morpheus8 $1.750. <b>Pendiente de Rosanna:</b> láser $999 + bonus y QuantumRF $2.500/$3.000 (sin confirmar no se publican).</p>
+
+  <h3>Membresía</h3>
+  <div class="elements"><b>Gancho = «acceso anticipado / extra».</b> Nunca el precio de la membresía en la imagen.</div>
+  <p><b>Sustento:</b> VIO (ClubVIO, acceso anticipado) y SKINNEY («Members save EXTRA», 10% extra solo en caption). Med tiene More Than Beauty Club (The Works $69/mes, Body Contouring $375/mes): el precio va al caption, no a la pieza.</p>
+
+  <h3>Credencial (Top 10% Morpheus8)</h3>
+  <div class="elements"><b>Sello chico, nunca titular.</b></div>
+  <p><b>Sustento:</b> el mercado NO la imprime en la imagen (ni Monaco ni No Filter). Si Med la pone, es un <b>diferencial propio</b>. Vallure la usaba como sello dorado «TOP 10%» en anuncios: mantenerla chica y en lugar fijo.</p>
+
+  <h3>Historia (9:16)</h3>
+  <div class="elements"><b>3–4 elementos:</b> gancho grande + 1 dato + sticker/CTA de la plataforma.</div>
+  <p><b>Sustento:</b> sin muestra directa en la investigación (las top no publicaron historias medibles en la muestra); se aplican las mismas reglas: pocos elementos, 1 idea, CTA de la plataforma. Marcar como <i>derivado, no medido</i>.</p>
+
+  <h3>Lo que NO se pone en la imagen (ninguno lo hace)</h3>
+  <ul>
+    <li>Letra chica / fine print / disclaimers (0/20 nacional).</li>
+    <li>Teléfono (1/20 nacional, 0/5 Miami).</li>
+    <li>Más de ~50 palabras en la imagen (mediana top: ~16).</li>
+    <li>Más de 2 ideas por pieza.</li>
+    <li>Logo grande al centro o sobre rostros.</li>
+    <li>Precio de lista o descuento como contenido habitual (solo piezas de evento).</li>
+  </ul>
+  <div class="warn"><b>Decisión abierta — Botox v7:</b> la v7 tiene ~9 elementos y lleva el teléfono en la imagen. La recomendación de mercado es dejar la tarjeta de oferta en 5 elementos y pasar el teléfono al caption. Daniel decide: mantenerla así (decisión consciente contra la norma top) o ajustarla. La v7 queda como variante; la v6 sigue siendo la base aprobada para el portal (G-05, Borrador).</div>
+</section>
+
+<section id="marca">
+  <h2>Sistema de diseño — Med Aesthetics Miami</h2>
+  <p><b>Colores (brandbook 2016):</b> dorado <b>#e3b533</b> · gris <b>#606163</b> · crema panel <b>#FCF6F1</b> · secundarios #f2f9ff, #ecf0e4, #4b3618.</p>
+  <p><b>Tipografía (brandbook pág. 15):</b> marca <b>BonvenoCF-Light</b> (titulares) · lectura <b>Fira Light / Regular / Bold</b>. La letra script NO es de marca.</p>
+  <p><b>Regla de jerarquía (Daniel, 14-nov):</b> combinar pesos bold y light, nunca todo el mismo peso. Ej. BOTOX en light, precio en bold dorado.</p>
+  <p><b>Logo (real, nunca redibujado):</b> archivo maestro <code>logo-med-aesthetics-real.png</code>. Esquina superior derecha, tamaño fijo 205 px en lienzo de 1080 px. Nunca sobre caras ni texto.</p>
+  <p><b>Marco:</b> fino dorado. <b>Foto:</b> real con consentimiento; si no hay, generada sin texto ni pacientes inventados. Nunca estirar: fit proporcional con relleno blur.</p>
+  <p><b>Formatos:</b> post 1080×1350 · cuadrado 1080×1080 · historia 1080×1920 · carrusel 1080×1350 por lámina. La misma pieza sirve para post y aviso pago.</p>
+  <p><b>Flujo:</b> Daniel revisa → Rosanna aprueba (WhatsApp, vía portal) → se publica. <b>Canva Pro:</b> pagado 14-nov (anual $144, cuenta musadaniel@gmail.com). Brand Kit pendiente de inicio de sesión. <b>Herramientas:</b> Canva (kit + plantillas) · ChatGPT (solo imágenes) · Musita/PIL (composición exacta, respaldo determinista).</p>
+  <p class="small">Especificación completa: <code>sistema-maestro-med-aesthetics.md</code>. Archivos de marca: <code>med-aesthetics-materiales/fuentes/</code> (BonvenoCF + Fira) y <code>logo-med-aesthetics-real.png</code>.</p>
+</section>
+
+<section id="fuentes">
+  <h2>Fuentes, método y limitaciones</h2>
+  <ul>
+    <li><b>Vallure:</b> 49 posteos orgánicos + 10 anuncios, capturados 10-nov-2026 (CLI Instagram + Biblioteca de Anuncios). Visuales en <code>med-aesthetics-portal/assets/vallure/</code>. Informe: <code>elementos-diseno-vallure-rosanna.md</code>.</li>
+    <li><b>Top 10 EE.UU.:</b> 20 piezas (2 por cuenta), leídas 14-nov-2026 con instagram-cli, sin 429. Imágenes descargadas y leídas visualmente (<code>elementos-top10/&lt;cuenta&gt;/</code>). Informe: <code>elementos-diseno-top10-eeuu.md</code>. Limitación: solo se vio la portada de cada carrusel; 8/10 interacciones son estimaciones Flinque.</li>
+    <li><b>Top 5 Miami:</b> 15 piezas (3 por cuenta), leídas 14-nov-2026 con instagram-cli, sin 429. Imágenes analizadas por descripción visual del conector (el CLI no expone las URLs); conteos aproximados (~). Informe: <code>elementos-diseno-top5-miami.md</code>.</li>
+    <li><b>Actualización:</b> la página de Competencia del portal del cliente se re-mide una vez por semana (mediana de (likes+comentarios)/seguidores por post, perfiles públicos). Esta página interna se actualiza con cada re-medición y con cada cliente nuevo.</li>
+  </ul>
+  <p class="small">Nada de este portal es contenido para publicar: es inventario de elementos para definir el sistema de cada cliente con Daniel y, cuando toca, con el cliente.</p>
+</section>
+
+</main>
+<footer>
+  MuViProject · Portal interno · Última actualización: 14-nov-2026 · Cliente 1: Med Aesthetics Miami.
+</footer>
+</body>
+</html>
