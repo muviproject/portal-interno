@@ -1,0 +1,1556 @@
+{
+  "captured": "2026-11-14",
+  "provenance": "Imported from the existing published HTML; not a new social-media measurement.",
+  "accounts": [
+    {
+      "handle": "monaco.medspa",
+      "group": "miami",
+      "sample": "28.438 seguidores · instagram.com/monaco.medspa Ranking: likes · muestra: La llamada de posteos pidio limit 25 (POST+REEL) pero la herramienta devolvio 52 posteos: 25 imagenes/carruseles + 27 videos (reels). Top 5 reels rankeados por likes sobre esos 27 reels.",
+      "analysis": "Paleta dominada por borgoña/vino oscuro, crema/beige y blanco, con acentos dorados: look de lujo discreto y editorial. Tipografia serif fina y elegante, casi siempre en minusculas, en blanco o crema sobre borgoña (antes/despues y carruseles) y en negro sobre caja blanca o translucida en los reels. Los reels top son mayormente talking-head/selfie de la doctora o retratos glamour de mujeres, verticales 9:16, con poco texto en portada. Las piezas estaticas son cuadradas 1:1 con marco borgoña y mucho aire; los antes/despues tapan los ojos con banda negra y llevan la marca en vertical. Contenido centrado en labios/fillers, cuello y Morpheus8, con la doctora como cara visible; mezclan piezas propias muy cuidadas con reposteos de assets de marca (Botox).",
+      "missing": [
+        "Faltante: La llamada de posteos pidio --limit 25 pero devolvio 52 posteos (25 imagenes/carruseles + 27 videos); el ranking se hizo sobre los 27 reels devueltos, no sobre 25 posteos.; Likes en null en 4 de las 5 piezas (posteos de imagen de mar-jun 2026): la herramienta devolvio likes=null para esos posteos, no se invento el valor.; No hay campo de vistas/reproducciones en los datos devueltos por instagram-cli, por eso el ranking uso likes (no vistas).; 2 de los 52 posteos devueltos pertenecen a otra cuenta ('theblondielucie', 2 posteos) y no se usaron.; Engagement muy bajo en relacion con 28.438 seguidores (top reel: 51 likes): son los numeros que devolvio la herramienta, sin verificar contra la app."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/monaco.medspa/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/DevBprLg75V/",
+          "title": "#1 · Reel",
+          "description": "♥ 51 · 💬 20 · 2026-10-20 16:48:05 La doctora anuncia el regreso tras 5 meses de remodelacion: selfie a camara, texto 'Monaco MedSpa / Were Back! Did you miss us?'",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/monaco.medspa/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DLQip09RISZ/",
+          "title": "#2 · Reel",
+          "description": "♥ 33 · 💬 6 · 2025-06-23 14:30:00 Primer plano glamour nocturno de una mujer sonriendo (vestido saten, joyas); pieza de imagen/lifestyle sin texto en portada",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/monaco.medspa/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/DfQLrbwKlnS/",
+          "title": "#3 · Reel",
+          "description": "♥ 24 · 💬 5 · 2026-11-02 12:38:36 La doctora sentada en la clinica habla del cuello: 'Let's Talk About The Neck / The neck can really age you', logo Monaco Medspa",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/monaco.medspa/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/DfniMzmK39g/",
+          "title": "#4 · Reel",
+          "description": "♥ 21 · 💬 4 · 2026-11-11 14:17:36 Lanzamiento de Daxxify: la doctora en la clinica muestra dos cajitas del producto a camara",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/monaco.medspa/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/DLkoAEJxcCo/",
+          "title": "#5 · Reel",
+          "description": "♥ 19 · 💬 5 · 2025-07-01 09:55:09 Retrato al sol de una mujer tumbada (piel glow, labios); pieza de imagen/lifestyle sobre Dysport",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/monaco.medspa/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DYVw1WbgkA_/",
+          "title": "Antes / después",
+          "description": "antes/después · ♥ — · 💬 2 · 2026-05-14 17:59:21 Antes/despues de filler de ojera, surco lagrimal y nasolabial: marco borgoña, serif fina blanca, ojos tapados con banda negra, marca vertical 'monaco medspa'.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/monaco.medspa/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/DZH0a56Dj_c/",
+          "title": "Carrusel educativo",
+          "description": "educativo (portada de carrusel) · ♥ — · 💬 2 · 2026-06-03 04:32:17 Portada de carrusel Morpheus8 3D Body: 'where is it used?' con caja crema listando abdomen, buttocks, thighs, knees, arms; fondo borgoña con burbujas.",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/monaco.medspa/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/DZnna3_vKG8/",
+          "title": "Antes / después",
+          "description": "antes/después (labios) · ♥ — · 💬 4 · 2026-06-15 12:54:26 Antes/despues de lip filler en primer plano, mismo marco borgoña y serif fina; 'before / lip filler / after'.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/monaco.medspa/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/DVvru2WlO1x/",
+          "title": "Testimonio",
+          "description": "testimonio · ♥ — · 💬 2 · 2026-03-11 06:01:00 'patient love monaco medspa': cita de paciente dentro de un corazon borgoña sobre foto oscura, serif elegante.",
+          "types": [
+            "Testimonio"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/monaco.medspa/pieza-5.jpg",
+          "url": "https://www.instagram.com/reel/Dew5kWdqHkW/",
+          "title": "Tarjeta de oferta",
+          "description": "promo/oferta · ♥ 4 · 💬 6 · 2026-10-21 10:03:26 Botox Day: reposteo de un anuncio de Botox Cosmetic (cartas BOGO sobre fondo lila, marca 'botoxcosmetic'); no es diseno propio, es asset de la marca.",
+          "types": [
+            "Tarjeta de oferta"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "luxmedspabrickell",
+      "group": "miami",
+      "sample": "345 seguidores · instagram.com/luxmedspabrickell Ranking: likes · muestra: top 5 de los 35 posteos devueltos (POST+REEL; --limit 25 devolvió 35)",
+      "analysis": "Paleta de lujo oscuro: negro profundo, crema/marfil y dorado como acento; testimonios en fondo crema; interiores calidos con madera, velas y luz tenue. Tipografia: serif elegante (estilo Didone) en titulares grandes, casi siempre crema o dorada sobre negro; sans condensada bold dorada solo en preguntas tipo 'SWEDISH OR DEEP TISSUE?'; italica serif para remates ('Just for you.'). Formato dominante: reels verticales 9:16 con el fundador Alan Araujo hablando a camara como cara de la marca; carruseles con portada disenada (foto arriba + banda de texto abajo) y numeracion de slide (01/05, 01/06). Los reels mejor rankeados no son de tratamientos sino de oferta y servicio: gift card, horarios, comparativa de masajes y spa day en solitario. Lo distinto: venden la experiencia y el lugar (SLS LUX Hotel, piso 9, piscina y steam room incluidos) mas que el procedimiento; casi no hay antes/despues ni piel en primer plano; mucho testimonio de Google y UGC de invitadas. Branding constante: 'LUX MedSpa Brickell' con filete dorado fino en casi todas las piezas y CTA de reserva en las de servicio. Contraste con Med Aesthetics: LUX es spa de dia (masajes y faciales) mas que clinica estetica; en las piezas vistas no hay precios salvo el facial de $279 mencionado en un caption.",
+      "missing": [
+        "Faltante: Vistas de reels: el campo views vino en null en todos los posteos; el ranking se hizo solo por likes.; No hay imagenes sueltas ni antes/despues en la muestra: los 35 posteos fueron 27 videos (reels) y 8 carruseles, por lo que no se pudo incluir ejemplo de esos tipos.; La llamada con --limit 25 devolvio 35 posteos; el top 5 se calculo sobre esos 35 (rango 2026-07-24 a 2026-11-08).; reel-5 es un UGC con fotograma oscuro de poca luz; se mantuvo porque el interior es visible, pero es el mas debil visualmente de los 10.; De los carruseles solo se capturo la portada (thumbnail); no se capturaron los slides interiores."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/luxmedspabrickell/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/Ddmv9C7CYqt/",
+          "title": "#1 · Reel",
+          "description": "♥ 76 · 💬 25 · 2026-09-22 14:55:33 Fundador Alan Araujo a camara: donde comprar una gift card de spa en Miami (el reel mas comentado: 25 comentarios).",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/luxmedspabrickell/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DeAmVDICX0P/",
+          "title": "#2 · Reel",
+          "description": "♥ 67 · 💬 16 · 2026-10-02 15:51:41 Fundador en el lounge anunciando nuevo horario de sabados 9 AM-8 PM.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/luxmedspabrickell/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/DdsNlnANlZB/",
+          "title": "#3 · Reel",
+          "description": "♥ 49 · 💬 18 · 2026-09-24 17:55:04 Fundador junto a la piscina: Swedish vs Deep Tissue, pregunta directa al espectador.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/luxmedspabrickell/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/DelGY40tIWg/",
+          "title": "#4 · Reel",
+          "description": "♥ 37 · 💬 4 · 2026-10-16 20:06:49 Ambiente del spa con velas y pasillo tenue: Solo Spa Day, masaje y facial en Brickell.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/luxmedspabrickell/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/Db_kIIdptzI/",
+          "title": "#5 · Reel",
+          "description": "♥ 27 · 💬 5 · 2026-08-13 13:13:25 Video UGC de una invitada ('A day at LUX'); fotograma oscuro de poca luz pero visible, sin texto de portada diseniado.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/luxmedspabrickell/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DeJUI3dFjYW/",
+          "title": "Portada de carrusel",
+          "description": "portada de carrusel / tour del spa · ♥ 23 · 💬 12 · 2026-10-06 01:05:39 Portada de carrusel 'WHY LUX? Your Brickell spa escape.' (01/06): foto de la sala de tratamientos doble y titular serif en banda negra.",
+          "types": [
+            "Portada de carrusel"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/luxmedspabrickell/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/De4CBUcFpi7/",
+          "title": "Tarjeta de oferta",
+          "description": "promo / lanzamiento parejas · ♥ 22 · 💬 6 · 2026-10-24 04:31:39 Lanzamiento de couples facials: dos terapeutas en la Couples Suite, titular 'Together. Individually cared for.' y boton CTA de reserva.",
+          "types": [
+            "Tarjeta de oferta"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/luxmedspabrickell/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/DbK48EyFmjn/",
+          "title": "Testimonio",
+          "description": "testimonio / resena de Google · ♥ 9 · 💬 0 · 2026-07-24 02:12:17 Tarjeta crema con cita textual de resena de Google (5 estrellas, Paniz Ryasati) en serif negro y dorado, con foto y datos de la autora.",
+          "types": [
+            "Testimonio"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/luxmedspabrickell/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/DffuLLcG87z/",
+          "title": "Tarjeta de oferta",
+          "description": "promo / gift card navidena · ♥ 15 · 💬 6 · 2026-11-08 13:27:51 Carrusel de gift card navidena (01/05): arbol de Navidad en el lounge y titular 'Give them a day. Stay in their memories.'",
+          "types": [
+            "Tarjeta de oferta"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/luxmedspabrickell/pieza-5.jpg",
+          "url": "https://www.instagram.com/p/DbdOYxcltnr/",
+          "title": "Portada de carrusel",
+          "description": "editorial de marca · ♥ 24 · 💬 3 · 2026-07-31 05:06:02 Portada de carrusel sin texto: foto lifestyle de dos invitadas conversando en el lounge; el mensaje de marca va en el caption.",
+          "types": [
+            "Portada de carrusel"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "skinneymedspa",
+      "group": "miami",
+      "sample": "57.656 seguidores · instagram.com/skinneymedspa Ranking: likes · muestra: top 5 reels de los 25 posteos mas recientes por created_at (14-nov-2026 al 20-oct-2026, POST+REEL); el CLI devolvio 73 posteos en raw-posts.json en vez de 25",
+      "analysis": "Paleta lujo limpio: blanco, crema/beige, piel natural y negro, con lila palido en las barras before/after y morado orquidea en la portada educativa; casi nada de color saturado. Tipografia doble: sans-serif fina en minusculas en las piezas graficas ('coolsculpting', 'skinney models') y texto blanco grueso centrado en los reels, como subtitulo ('strap in, we're getting snatched'). Formatos que mas usa: reels verticales selfie/POV dentro del consultorio (primeros planos de rostro, manos con guantes, el procedimiento en curso) y carruseles con portada editorial + antes/despues con plantilla fija y logo siempre arriba a la derecha. Lo distinto: mezcla editorial de moda (modelos, trajes, Saks/NYC) con clinica real sin retoque evidente, y mucho contenido de equipo y comunidad (Halloween, convocatoria de modelos, sticker 'Add Yours' para miembros). Tono joven en ingles, directo y con humor ('babe, it's November', 'Run, don't walk'), con Black Friday como campana fuerte de noviembre (hasta 60% off).",
+      "missing": [
+        "Faltante: El CLI devolvio 73 posteos en vez del limite de 25 pedido; el ranking se hizo sobre los 25 mas recientes por created_at (14-nov al 20-oct-2026).; Likes en null o ausentes en 13 de los 20 reels de esa muestra (y en pieza-1); el ranking por likes solo pudo ordenar los 7 reels con likes legibles, con empate 83-83 desempatado por comentarios (14 vs 8).; No hay metrica de vistas en ningun post devuelto por el CLI, asi que no se pudo rankear por vistas.; No se capturaron stories ni highlights, solo feed (POST+REEL).; La primera pieza-5 (Sofwave before/after) se descarto porque duplicaba el tipo antes/después de pieza-2; se reemplazo por el carrusel 'Spooky with SKINNEY'."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/skinneymedspa/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/DfiE8x2JDCZ/",
+          "title": "#1 · Reel",
+          "description": "♥ 83 · 💬 14 · 2026-11-09 11:26:42 Paciente en camilla con cinta en la cabeza, texto en pantalla 'strap in, we're getting snatched'",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinneymedspa/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DfYF7Nvj1h_/",
+          "title": "#2 · Reel",
+          "description": "♥ 83 · 💬 8 · 2026-11-05 14:22:36 Hombre con espejo de mano, texto 'facial balancing for men'",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinneymedspa/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/DfqELXMCW8z/",
+          "title": "#3 · Reel",
+          "description": "♥ 82 · 💬 3 · 2026-11-12 13:53:41 Inyectora con guantes rosas marcando el trapecio antes del trap tox",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinneymedspa/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/DfiGYoJnQjG/",
+          "title": "#4 · Reel",
+          "description": "♥ 21 · 💬 1 · 2026-11-09 11:38:20 Microneedling en rostro enrojecido, texto 'hot for the holidays'",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinneymedspa/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/DfmjDbRESX0/",
+          "title": "#5 · Reel",
+          "description": "♥ 18 · 💬 1 · 2026-11-11 05:06:33 Modelo rubia con traje rosa y gafas de sol saliendo de la clinica, teaser Black Friday",
+          "types": [
+            "Black Friday"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinneymedspa/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DfS5DuUD8xF/",
+          "title": "Tarjeta de oferta",
+          "description": "promo/oferta · ♥ — · 💬 0 · 2026-11-03 13:53:04 Collage de 2 fotos de modelo + sticker 'Members save EXTRA this month' con 'Add Yours'; anuncia Black Friday con 10% extra para miembros.",
+          "types": [
+            "Tarjeta de oferta",
+            "Black Friday",
+            "Membresía"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinneymedspa/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/DcBl5s1n1ao/",
+          "title": "Antes / después",
+          "description": "antes/después · ♥ 19 · 💬 0 · 2026-08-14 08:04:24 CoolSculpting en torso masculino de perfil; plantilla fija: nombre en minusculas arriba izquierda, logo SKINNEY arriba derecha, barra lila before/after abajo.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinneymedspa/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/DbQq0uLltaQ/",
+          "title": "Carrusel educativo",
+          "description": "educativo · ♥ 45 · 💬 1 · 2026-07-26 08:04:36 Portada de carrusel 'a hot girl's guide to peptides - mythbusting edition' en sans-serif fina blanca sobre foto de orquidea morada.",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinneymedspa/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/DeW_uG-jkdE/",
+          "title": "Humor / comunidad",
+          "description": "comunidad/convocatoria · ♥ 95 · 💬 37 · 2026-10-11 08:36:51 'skinney models': buscan modelos en NYC para tratamientos y contenido, todas las edades y tallas; foto editorial con velo oscuro y texto blanco.",
+          "types": [
+            "Humor / comunidad"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinneymedspa/pieza-5.jpg",
+          "url": "https://www.instagram.com/p/De4Pui8FZa6/",
+          "title": "Humor / comunidad",
+          "description": "humor/comunidad · ♥ 164 · 💬 14 · 2026-10-24 06:31:28 'Spooky with SKINNEY': selfie grupal del equipo disfrazado de Halloween frente al espejo de la clinica, luz calida, sin texto grafico.",
+          "types": [
+            "Humor / comunidad"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "nofiltermiami",
+      "group": "miami",
+      "sample": "23.868 seguidores · instagram.com/nofiltermiami Ranking: likes · muestra: top 5 de los últimos 25 posteos (POST+REEL) — la llamada devolvió 53 posteos; media_type: video=28, image=18, carousel=7",
+      "analysis": "Paleta: blanco clínico + negro + dorado y verde oliva en las piezas diseñadas; las fotos de antes/después van sobre fondo blanco puro, sin color. Tipografía: serif elegante (tipo Didot) en dorado para titulares de lanzamiento; sans-serif blanca en mayúsculas para BEFORE/AFTER; serif blanca grande en los reels con celebridades. Formatos que más usa: antes/después domina el feed (foto y video, cuerpo y rostro), seguido de reels de presentación de tecnología y talking-head de la profesional. El antes/después siempre lleva etiquetas BEFORE/AFTER en blanco o negro, flechas señalando la zona tratada y el logo 'NO FILTER MEDICAL SPA' en marca de agua semitransparente. Las piezas de lanzamiento de tecnología son las más diseñadas: fondo de seda, orquídeas, equipo en pedestal y lista de beneficios con íconos dorados + CTA con teléfono. Qué hace distinto: apalanca tecnología con nombre propio (SyneraLift, QuantumRF) como marca de la casa, usa celebridades (Kylie Jenner) como gancho de transformación y colabora con creadores locales (Luke Sullivan). El reel top (10.489 likes) es un outlier: 9x más que el segundo (1.115); el resto del feed se mueve entre 13 y 350 likes, con el antes/después como formato de engagement estable.",
+      "missing": [
+        "Faltante: Vistas de reels no disponibles: instagram-cli no devolvió view_count, por eso el ranking fue por likes.; Solo se revisaron las portadas de los carruseles (thumbnail de la primera imagen); las slides internas no se capturaron.; No se capturó el feed completo: la muestra fue de 53 posteos devueltos por la llamada (límite pedido 25)."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/nofiltermiami/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/DZbGwyVshgE/",
+          "title": "#1 · Reel",
+          "description": "♥ 10.489 · 💬 102 · 2026-06-10 16:28:43 Primer plano de abdomen aceitado con luz cálida: presentación del SyneraLift, su tecnología estrella de contorno corporal.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/nofiltermiami/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DanfFbisE9_/",
+          "title": "#2 · Reel",
+          "description": "♥ 1.115 · 💬 22 · 2026-07-10 08:21:01 Antes/después de abdomen en video: paciente recibiendo SyneraLift + PULSAR+, con texto BEFORE/AFTER en pantalla.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/nofiltermiami/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/DSBWr2vid8X/",
+          "title": "#3 · Reel",
+          "description": "♥ 347 · 💬 5 · 2025-12-08 15:37:40 Reel de colaboración con el creador Luke Sullivan (@lukethebaddy) dentro del spa: humor/comunidad, no es un post de la clínica sola.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/nofiltermiami/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/Dak-jj4RXlj/",
+          "title": "#4 · Reel",
+          "description": "♥ 75 · 💬 31 · 2026-07-09 07:53:55 Análisis de la transformación de Kylie Jenner: foto de celebridad + título en serif blanca 'TRANSFORMATION KYLIE JENNER' y marca de agua del logo.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/nofiltermiami/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/DZapEiAMnlM/",
+          "title": "#5 · Reel",
+          "description": "♥ 73 · 💬 27 · 2026-06-10 11:59:51 Profesional de bata blanca hablando a cámara (beso a cámara) en la clínica: formato talking-head, tono cercano y directo.",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/nofiltermiami/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DavuBteFpq0/",
+          "title": "Carrusel de tecnología",
+          "description": "anuncio de tecnología · ♥ 722 · 💬 15 · 2026-07-13 12:57:26 Portada de carrusel anunciando que son embajadores nacionales de EliteRa y el lanzamiento de SyneraLift: diseño editorial dorado/verde oliva con foto del equipo, 5 beneficios con íconos y CTA con teléfono.",
+          "types": [
+            "Carrusel de tecnología"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/nofiltermiami/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/Dd19Qu4Fu_r/",
+          "title": "Antes / después",
+          "description": "antes/después · ♥ 157 · 💬 27 · 2026-09-28 12:40:11 Antes/después de cintura y abdomen tras QuantumRF + SyneraLift: foto clínica frontal, etiquetas BEFORE/AFTER y banda negra 'QUANTUM RF', logo en marca de agua.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/nofiltermiami/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/DN3P1jgXORY/",
+          "title": "Antes / después",
+          "description": "educativo / prevención · ♥ 989 · 💬 59 · 2025-08-27 08:19:26 Post educativo 'Prevention is power' sobre prevención en pacientes jóvenes; la imagen es un antes/después de ojeras en un hombre joven, con flechas blancas señalando la zona.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/nofiltermiami/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/DeA_g2FsU_J/",
+          "title": "Antes / después",
+          "description": "antes/después · ♥ 102 · 💬 9 · 2026-10-02 19:38:45 Antes/después de brazos y línea del sostén tras QuantumRF: vista de espalda con flechas negras señalando la zona y banda 'QUANTUM RF'.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/nofiltermiami/pieza-5.jpg",
+          "url": "https://www.instagram.com/p/DQCRK3LDLwh/",
+          "title": "Antes / después",
+          "description": "antes/después · ♥ 91 · 💬 12 · 2025-10-20 08:05:00 Antes/después de rinoplastia líquida en perfil cerrado: foto macro de nariz con flechas blancas y marca @NOFILTERMIAMI abajo a la derecha.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "viomedspa.aventura",
+      "group": "miami",
+      "sample": "4.290 seguidores · instagram.com/viomedspa.aventura Ranking: likes · muestra: instagram-cli devolvió 50 posteos (25 video/reels, 21 imágenes, 4 carruseles) del 2026-09-02 al 2026-11-10; top 5 reels rankeados por likes entre los reels con métrica disponible",
+      "analysis": "Paleta lujosa y consistente: azul marino + dorado + crema/blanco, con negro como base en uniformes y packaging. Tipografía serif elegante (estilo Didot) para titulares grandes en blanco o azul marino, combinada con sans fina en mayúsculas para etiquetas y una cursiva serif para frases ('Day in the life', 'clubvio'). Formatos que más usa: reels selfie / day-in-the-life del equipo, antes-después clínicos con etiquetas 'before/after' grandes, y piezas gráficas diseñadas tipo 'Treatment Spotlight'. Mucho protagonismo del equipo: celebran a cada proveedora por nombre (PA Week, NP Week, Esthetician Day) y firman los testimonios con nombre de la inyectora. Lo distinto: la membresía Club VIO / 'Beauty Bank' como eje comercial repetido (varios reels en serie, unboxing de la caja) y eventos fuera del spa (pilates en rooftop en Aventura). Engagement bajo en general: el top reel tiene 111 likes con 4.290 seguidores.",
+      "missing": [
+        "Faltante: 12 de los 25 reels y 4 posteos no-reel no trajeron likes en instagram-cli (null); el ranking por likes solo cubre los reels con métrica disponible. Para pieza-4 (microneedling) los likes (19) y comentarios (4) se tomaron de hatch-zeitgeist, no de instagram-cli.; No se capturaron vistas de reels (la API no las devolvió) ni el contenido de los carruseles más allá de la portada.; Sin 429 ni bloqueos: perfil, posteos y las 11 llamadas a hatch-zeitgeist funcionaron; espera de 80s inicial y 8s entre llamadas respetada."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/viomedspa.aventura/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/Ddo9DPZJ3Dq/",
+          "title": "#1 · Reel",
+          "description": "♥ 111 · 💬 13 · 2026-09-23 11:30:27 Day in the life en la recepción del spa, texto serif blanco 'Day in the life' sobre el mostrador con el logo V/O",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/viomedspa.aventura/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DdoXLNrRng-/",
+          "title": "#2 · Reel",
+          "description": "♥ 81 · 💬 16 · 2026-09-23 05:57:40 Selfie 'Come with me to get a facial at V/O Med Spa', clienta en la camilla antes del facial",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/viomedspa.aventura/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/DeuvsfOPcKB/",
+          "title": "#3 · Reel",
+          "description": "♥ 64 · 💬 12 · 2026-10-20 13:59:48 Selfie en rooftop con palmeras en Aventura, texto 'Aventura' abajo; invita a pilates al aire libre (evento JETSET)",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/viomedspa.aventura/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/DezsKjRzRg6/",
+          "title": "#4 · Reel",
+          "description": "♥ 27 · 💬 5 · 2026-10-22 12:05:22 Inyectora tratando a una paciente en camilla, texto 'Not all angels can walk the VS fashion show...'",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/viomedspa.aventura/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/DdHReSgTfUa/",
+          "title": "#5 · Reel",
+          "description": "♥ 27 · 💬 4 · 2026-09-10 09:34:16 Unboxing de la caja Club VIO: folletos 'Introducing clubvio' y 'Join the Club' sobre caja negra",
+          "types": [
+            "Membresía"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/viomedspa.aventura/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DeMiD2WF0FC/",
+          "title": "Credencial",
+          "description": "portada de carrusel / prueba social · ♥ 85 · 💬 12 · 2026-10-07 07:05:33 Portada de carrusel '#1 LEADER IN AESTHETICS' con foto grupal del equipo y 'Nearly 1,000 five-star Google reviews'.",
+          "types": [
+            "Credencial"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/viomedspa.aventura/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/DeKTtKElZkW/",
+          "title": "Antes / después",
+          "description": "antes/después · ♥ — · 💬 10 · 2026-10-06 10:21:07 Antes/después de Dysport en frente masculina: 'before' con arrugas marcadas, 'after' frente lisa, tipografía negra gigante sobre blanco.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/viomedspa.aventura/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/Deb4T0URXIY/",
+          "title": "Tarjeta de oferta",
+          "description": "promo/oferta (referidos) · ♥ 17 · 💬 2 · 2026-10-13 06:09:44 Cartel espejo en la vereda 'SHARE THE LOVE — GIVE $50 / GET $50' con dos mujeres haciéndose una selfie; promo de referidos.",
+          "types": [
+            "Tarjeta de oferta"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/viomedspa.aventura/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/DeKN7LYRorq/",
+          "title": "Carrusel educativo",
+          "description": "educativo · ♥ 19 · 💬 4 · 2026-10-06 09:33:05 Treatment Spotlight de microneedling: foto SkinPen en acción, 4 beneficios con viñetas doradas, fondo azul marino.",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/viomedspa.aventura/pieza-5.jpg",
+          "url": "https://www.instagram.com/p/De1uRKRoMLr/",
+          "title": "Testimonio",
+          "description": "testimonio · ♥ 16 · 💬 0 · 2026-10-23 07:00:34 Tarjeta testimonio con 5 estrellas doradas: cita de Amanda sobre el 'gentle touch' de Stephanie en Sculptra, con su foto.",
+          "types": [
+            "Testimonio"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "skinconserv",
+      "group": "national",
+      "sample": "16.522 seguidores · instagram.com/skinconserv Ranking: comments · muestra: top 5 reels de los 25 posteos mas recientes por fecha (2026-09-21 a 2026-11-13); la llamada devolvio 55 posteos (25 POST + 30 REEL)",
+      "analysis": "Paleta de lujo discreto: negro, marmol gris oscuro, dorado, beige/crema y madera clara; mucho blanco en la ropa y las paredes. Tipografia: serif elegante en mayusculas para titulos + script cursiva dorada para 'by Yve' y las frases; el logo 'SKIN CONSERV by Yve' va como marca de agua en casi todas las piezas. Formatos: reels verticales con texto superpuesto abajo; carruseles de reviews con texto largo sobre foto oscurecida; antes/despues en perfil con lista tecnica al costado. La fundadora Yve es la cara constante: bata blanca, charlas a camara, recorridos del espacio; tono calido, en primera persona, firma '-xx, Yve'. Lo distinto: posicionamiento de longevidad y medicina funcional (edad biologica, GLP-1, InBody) mas que estetica pura; y mucho contenido de comunidad local (Park City, Vision 2050, camara de comercio). Engagement bajo en likes (12-113 segun zeitgeist) pero los reels de hitos (apertura, edad biologica) concentran los comentarios (70 y 23).",
+      "missing": [
+        "Faltante: likes en instagram-cli: null en los 50 posteos recientes (solo 5 posteos viejos de 2025 los traian); los valores de likes en datos.json son like_count de hatch-zeitgeist.; Vistas de los reels no disponibles en ninguna de las dos fuentes.; No se capturo pieza de promo/oferta ni de humor: en los 25 posteos mas recientes no aparecio ninguna oferta ni pieza humoristica.; La llamada de posteos devolvio 55 registros en vez de 25 (parece aplicar el limite por tipo: 25 POST + 30 REEL); el top 5 se saco de los 25 mas recientes por fecha."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/skinconserv/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/Dej3YBZBpLt/",
+          "title": "#1 · Reel",
+          "description": "♥ — · 💬 70 · 2026-10-16 08:35:23 Fachada del flagship de Park City con el texto 'The ribbon is cut. The journey begins.'; reel de la gran apertura.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinconserv/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DfaISOYBOZ1/",
+          "title": "#2 · Reel",
+          "description": "♥ 39 · 💬 23 · 2026-11-06 09:23:20 Yve y una amiga charlando con cafes en el lounge de la clinica; revela su edad biologica: 35.1.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinconserv/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/Dfm_UZ9hG44/",
+          "title": "#3 · Reel",
+          "description": "♥ 47 · 💬 11 · 2026-11-11 09:16:20 Yve en bata blanca junto al logo de Vision 2050 Park City; apoyo al evento de longevidad y comunidad.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinconserv/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/Ddtzij7hSjf/",
+          "title": "#4 · Reel",
+          "description": "♥ 21 · 💬 11 · 2026-09-25 08:42:14 Recorrido del consultorio: sillon de tratamiento negro y sala privada; texto 'A space just for you'.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinconserv/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/Dfhy4Pqh74Y/",
+          "title": "#5 · Reel",
+          "description": "♥ 12 · 💬 10 · 2026-11-09 08:49:58 Primer plano de una paciente recibiendo el tratamiento AuraLux 3D Miracle Renew Glide en el rostro.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinconserv/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DfH0GA_m-4w/",
+          "title": "Testimonio",
+          "description": "testimonio · ♥ 13 · 💬 4 · 2026-10-30 07:37:48 Portada de carrusel con la review larga del esposo de una paciente (Jaime T.); serif dorado sobre foto oscurecida y servicios listados al pie (Sculptra, HydraFacial, BOTOX).",
+          "types": [
+            "Testimonio"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinconserv/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/DeSDjHCB9_S/",
+          "title": "Imagen suelta / editorial",
+          "description": "imagen suelta / personal · ♥ 90 · 💬 23 · 2026-10-09 10:34:51 Yve de cuerpo entero en traje blanco dentro de la clinica; frase en script dorado 'Nothing to prove. Everything to celebrate.'",
+          "types": [
+            "Imagen suelta / editorial"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinconserv/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/DX9iqB9BUWU/",
+          "title": "Antes / después",
+          "description": "antes/después · ♥ 35 · 💬 4 · 2026-05-05 08:14:53 Doble perfil antes/despues de una paciente con la lista tecnica de la tecnica Aesthetic Architect (soporte cigomatico, colageno, HA).",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinconserv/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/DbLfGmdFO4I/",
+          "title": "Carrusel de tecnología",
+          "description": "educativo / lanzamiento · ♥ 38 · 💬 22 · 2026-07-24 07:45:46 Portada de carrusel: Yve aplicando el laser con gafas protectoras; texto serif dorado 'Meet the next generation of laser technology' (AuraLux 3D MIRACL).",
+          "types": [
+            "Carrusel de tecnología"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "kbeautylab808",
+      "group": "national",
+      "sample": "62.218 seguidores · instagram.com/kbeautylab808 Ranking: likes · muestra: top 5 de los últimos 25 posteos por fecha (POST+REEL); la llamada devolvió 66 posteos pese al límite 25 y el ranking se hizo sobre los 25 más recientes por created_at",
+      "analysis": "Paleta: blanco y crema como base, verde oliva/hoja en el logo y acentos, azul marino en botones, dorado en promos; morado de Alma en eventos. Tipografía: serif elegante (estilo Times) para titulares en reels y carruseles educativos; sans bold gigante y en mayúsculas para hooks de antes/después; texto blanco con sombra sobre foto. Formatos que más usa: reels verticales con la CEO Chloe como cara visible (eventos, TV local, testimonios de clientas), carruseles educativos 'Skin Notes' y fotos de producto limpias sobre blanco. Mucho contenido de autoridad: cobertura de HI Now Daily / Hawaii News Now, Alma Academy y colaboraciones con otras dueñas de spa. Las promos son gráficas de estudio muy pulidas (pedestal de mármol, dorado, regalos); el contenido orgánico es más casero y selfie. Lo distinto: mezcla K-beauty con med spa y head spa, y vende la experiencia con la fundadora como protagonista constante; casi no hay fotos de stock, todo es real. Los carruseles educativos usan mucho aire en blanco, pregunta grande en serif y foto clínica directa sin retoque evidente.",
+      "missing": [
+        "Faltante: El reel con 1821 likes (HI Now Daily, https://www.instagram.com/reel/DeC9KwdyHoC/) quedó fuera del top 5: su thumbnail era un clip horizontal de TV con bandas negras arriba y abajo (más de la mitad del cuadro en negro); se reemplazó por el siguiente mejor reel por likes (1510).; Likes en null en muchos posteos (la API no los devolvió): el ranking por likes solo pudo usar los reels con likes legibles; reels con muchos comentarios pero sin likes (p. ej. REEPOT con 58 comentarios, MIRA con 44) quedaron fuera del top 5 aunque podrían rankear alto por comentarios.; No se capturaron vistas de reels: la API no devolvió view counts en esta tanda.; La llamada de posteos devolvió 66 posteos pese al límite 25; el ranking se limitó a los 25 más recientes por fecha."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/kbeautylab808/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/DesSgb7hoXy/",
+          "title": "#1 · Reel",
+          "description": "♥ 3.800 · 💬 4 · 2026-10-19 15:07:43 La CEO Chloe en Alma Academy: high-five con otra dueña de spa y texto 'Always Evolving. Always Elevating.'",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/kbeautylab808/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/Dek3bKipxxc/",
+          "title": "#2 · Reel",
+          "description": "♥ 2.087 · 💬 25 · 2026-10-16 17:55:42 Selfie divertida con otra asistente en Alma Academy: 'Guess who we ran into at Alma Academy'",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/kbeautylab808/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/DenGY0eBbMr/",
+          "title": "#3 · Reel",
+          "description": "♥ 1.658 · 💬 18 · 2026-10-17 14:44:30 Foto frente al backdrop de Alma Academy con texto sobre seguir aprendiendo y creciendo",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/kbeautylab808/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/Ddmtz1Iyahc/",
+          "title": "#4 · Reel",
+          "description": "♥ 1.630 · 💬 47 · 2026-09-22 14:39:04 Abrazo con la conductora de HI Now Daily y logos K Beauty Lab x Hawaii News Now",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/kbeautylab808/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/DdkqAOqKu9D/",
+          "title": "#5 · Reel",
+          "description": "♥ 1.510 · 💬 82 · 2026-09-21 19:29:36 Food blogger en restaurante coreano cuenta su Pico Laser para recuperar la piel tras viajar por Asia",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/kbeautylab808/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/Dfq7nyAF2Hy/",
+          "title": "Tarjeta de oferta",
+          "description": "promo/oferta · ♥ 1.292 · 💬 20 · 2026-11-12 21:57:09 Black Friday: 30% OFF todos los productos 16-30 nov, productos sobre pedestal de mármol con dorado y regalos",
+          "types": [
+            "Tarjeta de oferta",
+            "Black Friday"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/kbeautylab808/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/Dfp-MG5F3P8/",
+          "title": "Producto",
+          "description": "imagen de producto · ♥ 1.939 · 💬 18 · 2026-11-12 13:00:22 ECLADO Oxygen Bubble Pack: producto blanco con burbujas, fondo blanco, tipografía serif grande y botón SHOP NOW azul",
+          "types": [
+            "Producto"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/kbeautylab808/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/DfZBln0G57G/",
+          "title": "Carrusel educativo",
+          "description": "educativo (portada de carrusel) · ♥ — · 💬 25 · 2026-11-05 23:02:48 Serie 'Skin Notes': 'Why do milia appear?' con primer plano clínico de milia alrededor del ojo, fondo crema",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/kbeautylab808/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/DdEyYRdG6iA/",
+          "title": "Antes / después",
+          "description": "testimonio (portada de carrusel) · ♥ 1.982 · 💬 108 · 2026-09-09 10:22:18 Clienta en selfie con su perro; en el carrusel cuenta su facial y el antes/después del láser nuevo",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/kbeautylab808/pieza-5.jpg",
+          "url": "https://www.instagram.com/reel/DfL069rxT7b/",
+          "title": "Antes / después",
+          "description": "antes/después (reel) · ♥ — · 💬 28 · 2026-10-31 21:04:19 Primer plano de cuero cabelludo con texto gigante 'THINK YOUR HAIR CAN'T CHANGE?' para ALMA TED",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "beautybeyondaesthetics1",
+      "group": "national",
+      "sample": "48.540 seguidores · instagram.com/beautybeyondaesthetics1 Ranking: likes · muestra: top 5 reels por likes de los últimos 25 posteos cronológicos (POST+REEL), 8 oct–13 nov 2026; el CLI devolvió 52 posteos pese a --limit 25",
+      "analysis": "Paleta crema/beige/rosa pálido con texto marrón chocolate; fotos de piel y equipos en tonos naturales, acentos dorados en Halloween y negro en guantes y equipos. Tipografía serif elegante (estilo Didone) dominante en titulares y citas; script cursiva solo para 'Jeuveau Day'; sans solo en el logo 'BEAUTY BEYOND AESTHETICS' y en los rótulos BEFORE/AFTER. Reels verticales 9:16 con texto grande centrado sobre el video; estáticas 4:5 con marcos blancos redondeados (testimonio) o titulares a sangre; carruseles educativos con portada tipográfica limpia. La dueña (Kristina Collins, APRN) es la cara constante: a cámara, en bata blanca o tratando; mucho primer plano de procedimientos reales (Opus, Erbium, microneedling). Lo distinto: tono cálido y conversacional con humor ('Bad news for wrinkles', esqueleto dorado), promos atadas a fechas (Jeuveau Day, Halloween, holidays) y antes/después sobrios sin retoque evidente. El logo es pequeño y discreto, nunca protagonista; las promos llevan precio y fecha concretos, y la educación (proceso de microneedling día a día) convive con la venta.",
+      "missing": [
+        "Faltante: El CLI devolvió 52 posteos pese a --limit 25; el ranking se hizo sobre los 25 más recientes por fecha (8 oct–13 nov 2026).; No se capturaron vistas de reels: el CLI no devuelve view_count, solo likes y comentarios.; La pieza antes/después (29 sep 2026) quedó fuera de los últimos 25 cronológicos pero dentro de la tanda devuelta; se incluyó por ser el ejemplo explícito de ese tipo.; No se verificaron las diapositivas interiores del carrusel educativo (solo la portada, pieza-2)."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/beautybeyondaesthetics1/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/DffvNwoTlkr/",
+          "title": "#1 · Reel",
+          "description": "♥ 2.052 · 💬 8 · 2026-11-08 Primer plano de Opus Plasma en la mejilla con texto serif sobre constancia de 6 meses.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/beautybeyondaesthetics1/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DfLT9sFTEJA/",
+          "title": "#2 · Reel",
+          "description": "♥ 1.702 · 💬 11 · 2026-10-31 Invitación gráfica a Jeuveau Day (11 nov, $80 off) con Kristina en bata blanca sobre fondo rosa.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/beautybeyondaesthetics1/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/De0AsO-TSeQ/",
+          "title": "#3 · Reel",
+          "description": "♥ 1.606 · 💬 13 · 2026-10-22 Láser Erbium en la frente de una paciente con gafas protectoras; texto 'If you needed a sign...'.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/beautybeyondaesthetics1/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/DeVXq2Thg28/",
+          "title": "#4 · Reel",
+          "description": "♥ 1.560 · 💬 14 · 2026-10-10 Kristina a cámara con humor: 'Bad news for wrinkles: I came to work today'.",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/beautybeyondaesthetics1/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/DfODnEpT2Af/",
+          "title": "#5 · Reel",
+          "description": "♥ 1.358 · 💬 11 · 2026-11-01 Selfie día 1 post-microneedling (piel enrojecida) en el auto; serie 'Day 1 to Day 7, The Healing Journey'.",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/beautybeyondaesthetics1/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DeXoVV7zRqv/",
+          "title": "Testimonio",
+          "description": "testimonio · ♥ 2.002 · 💬 10 · 2026-10-11 Foto de Kristina aplicando láser en una pierna, con marco blanco redondeado y cita en cursiva serif de Holly S. ('Kristina is so sweet and AMAZING at what she does!') y logo abajo.",
+          "types": [
+            "Testimonio"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/beautybeyondaesthetics1/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/DfBFD47ExS2/",
+          "title": "Carrusel educativo",
+          "description": "educativo (portada de carrusel) · ♥ 926 · 💬 9 · 2026-10-27 Portada de carrusel sobre Opus Plasma: equipo en primer plano sobre fondo crema y titular serif marrón en mayúsculas ('3 BENEFITS OF THIS ADVANCED SKIN RESURFACING TREATMENT...'), logo discreto.",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/beautybeyondaesthetics1/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/DfDZgQKTfbL/",
+          "title": "Tarjeta de oferta",
+          "description": "promo/oferta · ♥ 657 · 💬 20 · 2026-10-28 Primer plano de rostro con 'Jeuveau Day is coming', fecha 11 nov, '$80 off Jeuveau' y logo; es la pieza con más comentarios de la tanda (20).",
+          "types": [
+            "Tarjeta de oferta"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/beautybeyondaesthetics1/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/DeaQ9DVzf1j/",
+          "title": "Humor / comunidad",
+          "description": "humor/comunidad · ♥ 1.875 · 💬 7 · 2026-10-12 Halloween: esqueleto dorado sosteniendo el limpiador AHA/BHA de la marca y almohadón bordado 'you're, like, really pretty'; foto real sin texto gráfico.",
+          "types": [
+            "Humor / comunidad"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/beautybeyondaesthetics1/pieza-5.jpg",
+          "url": "https://www.instagram.com/p/Dd4tzYqzkKy/",
+          "title": "Antes / después",
+          "description": "antes/después · ♥ 1.212 · 💬 16 · 2026-09-29 Díptico BEFORE/AFTER con titular serif 'Lifted. Defined. Refreshed.' y firma 'Kristina Collins, APRN'; rótulos sobrios y logo centrado abajo.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "skinholics.miami",
+      "group": "national",
+      "sample": "21.233 seguidores · instagram.com/skinholics.miami Ranking: comments (likes = null en los 25 posteos recientes del batch de instagram-cli; los likes de este archivo provienen de hatch-zeitgeist por post, ver faltante) · muestra: top 5 de los últimos 25 posteos (POST+REEL), ventana 2026-08-04 a 2026-11-13; el batch devolvió 58 posteos aunque se pidió limit 25, se tomaron los 25 más recientes por fecha",
+      "analysis": "Paleta: rosa (pastel e intenso), blanco/crema, negro y dorado suave; el rosa es el color de marca constante en portadas y gráficas. Tipografía: mezcla de dos registros — sans bold gigante con cajas de color (amarillo/rosa) en portadas de reels, y serif elegante + cursiva en gráficas educativas y de humor. Formatos que más usa: reels verticales con portada diseñada (la mitad del top 5 son cursos de micropigmentación), carruseles educativos y antes/después crudos a pantalla partida. Qué hace distinto: vende formación (cursos de micropigmentación con certificación) tanto como tratamientos; las graduadas con certificado son contenido recurrente y de alto engagement. Los antes/después son fotos reales sin retoque de diseño, con rótulos simples en inglés ('Before laser' / 'After laser'), lo que contrasta con sus portadas muy producidas. El humor es una pata propia: clips con IA y la carta de 'disculpa oficial' usan el chiste para vender resultados sin parecer anuncio. La fundadora (Carla Zabaleta) es la cara visible: aparece recortada en portadas, en video y en foto con alumnas; el local de Doral aparece como escenario.",
+      "missing": [
+        "Faltante: likes del batch de instagram-cli: null en los 25 posteos recientes (y en casi todos los 58 devueltos); el ranking se hizo por comentarios. Los likes de datos.json se leyeron después, uno por uno, con hatch-zeitgeist (like_count por post).; vistas: no disponibles en ninguna de las dos fuentes.; El batch pidió limit 25 pero devolvió 58 posteos; se usaron los 25 más recientes por created_at (2026-08-04 a 2026-11-13) para el ranking."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/skinholics.miami/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/DeDWEPGOVKx/",
+          "title": "#1 · Reel",
+          "description": "♥ 33 · 💬 15 · 2026-10-03 17:28:45 Portada diseñada con texto gigante en cajas amarilla/rosa + presentadora recortada y foto del láser Erbium en acción; mito del CO2 vs. alternativa.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinholics.miami/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/Dd7nnzUOqPO/",
+          "title": "#2 · Reel",
+          "description": "♥ 27 · 💬 12 · 2026-09-30 17:27:19 Portada diseñada del curso de micropigmentación: dos instructoras en la puerta del local, 3 técnicas en miniaturas y 4 beneficios con íconos.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinholics.miami/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/DfYHQA5qcN3/",
+          "title": "#3 · Reel",
+          "description": "♥ 16 · 💬 11 · 2026-11-05 14:33:39 Práctica real del curso: alumna trabajando micropigmentación en una modelo acostada, texto simple en caja blanca.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinholics.miami/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/DdC0v8mO-i2/",
+          "title": "#4 · Reel",
+          "description": "♥ 22 · 💬 11 · 2026-09-08 16:05:23 Clip de IA/humor: mujer con vestido rosa caminando por un restaurante con café y hablando por teléfono, sin texto en pantalla.",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinholics.miami/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/DfaoFoeqSCf/",
+          "title": "#5 · Reel",
+          "description": "♥ 25 · 💬 10 · 2026-11-06 14:01:58 Testimonio de graduada: Alice muestra su certificado de micropigmentación con rótulo 'ALICE • GRADUADA'.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinholics.miami/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DflE9x-pThO/",
+          "title": "Antes / después",
+          "description": "carrusel — curso (portada: antes/después de labios) · ♥ 6 · 💬 3 · 2026-11-10 15:23:12 La miniatura que devuelve zeitgeist es el antes/después de labios (labio pálido arriba, rosa intenso abajo), no una portada diseñada; el carrusel vende el curso de micropigmentación de labios.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinholics.miami/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/DRDicIegYDP/",
+          "title": "Antes / después",
+          "description": "antes/después · ♥ 9 · 💬 9 · 2025-11-14 15:27:03 Antes/después de láser en axilas a pantalla partida, con rótulos 'Before laser' / 'After laser' en inglés, foto cruda sin diseño.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinholics.miami/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/DSbMV3Djk_X/",
+          "title": "Carrusel educativo",
+          "description": "educativo · ♥ 6 · 💬 3 · 2025-12-18 16:27:08 Portada de carrusel editorial: fondo blanco texturado con trazos de pincel negro, título serif negro 'ENDOLIFT CORPORAL' + pregunta en cursiva, dos fotos de espalda.",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinholics.miami/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/DHHuNzXuyGt/",
+          "title": "Antes / después",
+          "description": "antes/después — tattoo removal · ♥ 12 · 💬 2 · 2025-03-12 18:12:59 Antes/después de tattoo removal en un dedo, rótulos 'Tattoo removal', 'Before' y 'After' en inglés, foto cruda sin diseño.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinholics.miami/pieza-5.jpg",
+          "url": "https://www.instagram.com/p/DRIvfzcjLcL/",
+          "title": "Humor / comunidad",
+          "description": "humor/comunidad · ♥ 45 · 💬 3 · 2025-11-16 15:57:21 Gráfica de humor/comunidad: carta de 'DISCULPA OFICIAL' por tratamientos que 'funcionan demasiado bien', tipografía serif elegante sobre fondo crema con manchas rosas.",
+          "types": [
+            "Humor / comunidad"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "kumimedspa",
+      "group": "national",
+      "sample": "10.896 seguidores · instagram.com/kumimedspa Ranking: likes · muestra: top 5 reels por likes de la tanda devuelta por la API (66 posteos; límite pedido 25, POST+REEL)",
+      "analysis": "Paleta dominante: rosa pálido / lavanda / lila con blanco y toques de dorado; el feed se siente suave, femenino y luminoso, con mucho aire blanco y fondos claros. Tipografía: sans-serif fina y elegante en mayúsculas para títulos de producto (DERMAPEEL, SCULPTRA), con serif fina en subtítulos; en reels usan texto grande blanco en negrita sobre la imagen ('Spa DAY', 'microneedling with salmon sperm'). Formatos: muchos reels verticales de estilo vlog/selfie protagonizados por clientas e influencers (no por la fundadora sola); carruseles educativos y de producto; antes/después en foto partida con etiquetas discretas 'THE BEFORE / THE AFTER' y marca de agua KUMI centrada. Branding constante: logo 'K KUMI' en bolsas de regalo, batas, almohadas y tarjetas manuscritas de bienvenida; la experiencia de regalo/unboxing es parte del contenido. Lo distinto: apalancan mucho el contenido generado por clientas e influencers (pageant, boda, 'bestie date') con tono coloquial y memes pop (Mean Girls, 'you can't sit with us'), más que el antes/después clínico puro. Los reels top no son los más recientes: los dos primeros son de agosto/septiembre y superan por mucho a los de noviembre, lo que sugiere que el alcance viene de colaboraciones y de temas con gancho (revista, tatuaje, boda).",
+      "missing": [
+        "Faltante: La tanda pedida era de 25 posteos pero la API devolvió 66 (count=66 en raw-posts.json); el ranking se hizo sobre esa tanda completa devuelta.; Varios reels de la tanda tienen likes en null (la API no los devolvió); se rankeó por likes tratando null como 0. Un reel con likes null (DcltauIRmDg, 2026-08-28) tiene 230 comentarios, el más alto de la tanda, y quedó fuera del top 5 por la métrica elegida.; No se capturaron vistas de reels: la API no devuelve view counts en esta tanda.; No se capturó el testimonio de clienta como tipo separado: la tanda no incluía un testimonio claro distinto de los elegidos; la pieza de equipo (Nathaly) cubre la presentación de personal."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/kumimedspa/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/DdFUPe2uCQr/",
+          "title": "#1 · Reel",
+          "description": "♥ 592 · 💬 58 · 2026-09-09 15:20:06 La fundadora Crystal en vestido floral dentro del spa, feature de Houston Magazine.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/kumimedspa/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DchYUfmxZ2i/",
+          "title": "#2 · Reel",
+          "description": "♥ 544 · 💬 33 · 2026-08-26 16:23:10 Día de spa: bolsa de regalo KUMI, bata y tarjeta manuscrita en la camilla, texto 'Spa DAY'.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/kumimedspa/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/Db9doPXpUkk/",
+          "title": "#3 · Reel",
+          "description": "♥ 223 · 💬 24 · 2026-08-12 17:44:13 Clienta de certamen en bata KUMI con gafas de láser, preparándose para depilación láser de axilas.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/kumimedspa/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/Ddo5IqWxedK/",
+          "title": "#4 · Reel",
+          "description": "♥ 214 · 💬 14 · 2026-09-23 11:02:45 Clienta en selfie camino a su primera sesión de microneedling con 'salmon sperm' para su boda.",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/kumimedspa/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/Dc6YFE8uquk/",
+          "title": "#5 · Reel",
+          "description": "♥ 151 · 💬 11 · 2026-09-05 09:25:52 Remoción de tatuaje en curso: clienta con gafas protectoras en camilla mientras la técnica aplica el láser.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/kumimedspa/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DfpW3VXROBh/",
+          "title": "Antes / después",
+          "description": "antes/después · ♥ 12 · 💬 5 · 2026-11-12 07:20:41 Antes/después de EZ Gel (ojera/perfil) por la inyectora Nathaly: foto partida con etiquetas 'THE BEFORE / THE AFTER' y marca de agua KUMI centrada. Post más reciente de la cuenta.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/kumimedspa/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/De11EcrEW0Z/",
+          "title": "Tarjeta de oferta",
+          "description": "promo/oferta · ♥ 11 · 💬 1 · 2026-10-23 08:00:16 Promo/oferta Dermapeel: portada de carrusel con modelo sosteniendo el producto, título grande 'KUMI DERMAPEEL' y 4 beneficios con flechas. CTA por DM ('DERMAPEEL').",
+          "types": [
+            "Tarjeta de oferta"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/kumimedspa/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/DeCmXV2kdlw/",
+          "title": "Humor / comunidad",
+          "description": "humor/comunidad · ♥ 217 · 💬 24 · 2026-10-03 10:30:01 Humor/comunidad estilo Mean Girls: 4 mujeres de rosa haciendo 'shhh', anuncio de 'KUMI plastics' y ventas próximas. Segundo post con más likes de toda la tanda.",
+          "types": [
+            "Humor / comunidad"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/kumimedspa/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/Dd1dNK-lLVK/",
+          "title": "Carrusel educativo",
+          "description": "educativo · ♥ 18 · 💬 3 · 2026-09-29 08:00:04 Educativo: portada de carrusel 'SCULPTRA — What you need to know about collagen stimulation', manos con guantes morados sosteniendo vial y caja roja sobre fondo blanco limpio.",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/kumimedspa/pieza-5.jpg",
+          "url": "https://www.instagram.com/p/DeZSsUSlDMM/",
+          "title": "Equipo / presentación",
+          "description": "equipo/presentación · ♥ 175 · 💬 46 · 2026-10-12 06:00:01 Presentación de equipo: retrato de Nathaly Ramirez, BSN, RN, nueva inyectora, con jeringa en mano y traje blanco sobre columnas rosas. Tercer post con más comentarios de la tanda.",
+          "types": [
+            "Equipo / presentación"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "beautybybel.rn",
+      "group": "national",
+      "sample": "9.602 seguidores · instagram.com/beautybybel.rn Ranking: likes (nulos tratados como 0; desempate por comentarios; 21 de 25 reels no traian likes) · muestra: top 5 reels de los ultimos 50 posteos devueltos (25 POST + 25 REEL, sep-nov 2026); la llamada con limit 25 devolvio 25 por tipo",
+      "analysis": "Paleta calida y sobria: beiges, marrones, crema y tonos piel; acentos dorados y el rosa/naranja de los cocktails de Paris. Tipografia: serif elegante (tipo Didone) para titulares y marca 'ethereal / ETHEREAL med spa & wellness'; sans bold con contorno negro solo en textos de reel. Formatos: mezcla de carruseles educativos y de resultados, reels selfie/lifestyle y mucho contenido personal de viaje (Paris domina sep-oct). Los antes/despues son fotos reales en plano cerrado, sin etiquetas 'antes/despues' en la imagen: el contraste lo hace el propio díptico. Lo distinto: la inyectora ES la marca — su cara y su vida (Paris, equipo, premios) ocupan tanto feed como los tratamientos; el contenido educativo usa anatomia real sobre su propio rostro. El top de reels lo lideran contenidos de comunidad/viaje (MAAI, Paris, equipo), no los tratamientos en si. La portada de reel-1 salio muy sobreexpuesta/lavada pero el texto en pantalla sigue siendo legible.",
+      "missing": [
+        "Faltante: 21 de 25 reels no traian likes en la API (null); el ranking uso likes donde existian y comentarios como desempate; No se capturo numero de vistas de ningun reel (la API no lo devolvio); No se capturo una pieza de oferta/precio: en la tanda no habia promos con precio, solo la votacion Top 100"
+      ],
+      "items": [
+        {
+          "image": "inspiracion/beautybybel.rn/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/Dd6cfTuvoYP/",
+          "title": "#1 · Reel",
+          "description": "♥ 240 · 💬 19 · 2026-09-30 Encuentro de 7 inyectoras de distintos estados en el summit MAAI; texto en pantalla '7 AESTHETIC INJECTORS ACROSS THE U.S.'",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/beautybybel.rn/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DeheELIMRFe/",
+          "title": "#2 · Reel",
+          "description": "♥ 206 · 💬 23 · 2026-10-15 Lifestyle en Paris: cocktail en mesa naranja y camara compacta mostrando una foto; tema GLP-1 / perdida de peso",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/beautybybel.rn/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/DeZvMcsMFAa/",
+          "title": "#3 · Reel",
+          "description": "♥ 86 · 💬 2 · 2026-10-12 Torre Eiffel en plano vertical, contenido de viaje en Paris sin texto en pantalla",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/beautybybel.rn/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/Dduo4JlzPAd/",
+          "title": "#4 · Reel",
+          "description": "♥ 85 · 💬 11 · 2026-09-25 Selfie a camara con texto en pantalla sobre 4 meses sin botox (Dysport/Botox)",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/beautybybel.rn/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/De0UbWZhcE5/",
+          "title": "#5 · Reel",
+          "description": "♥ — · 💬 6 · 2026-10-22 Foto de equipo: 5 mujeres del Ethereal Med Spa sentadas en un banco, logo 'ETHEREAL med spa & wellness' en serif",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/beautybybel.rn/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DfqqbDGlEMU/",
+          "title": "Carrusel educativo",
+          "description": "educativo · ♥ 81 · 💬 3 · 2026-11-12 Portada de carrusel: infografia 'FACIAL VASCULATURE' con arterias y venas del rostro dibujadas sobre retrato; explica por que salen hematomas tras inyecciones",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/beautybybel.rn/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/Dfn9AOhFJr7/",
+          "title": "Antes / después",
+          "description": "antes/después (labios) · ♥ 60 · 💬 1 · 2026-11-11 Carrusel antes/despues de lip filler en plano cerrado, arriba y abajo, con marca de agua 'ethereal MEDSPA & WELLNESS' en serif",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/beautybybel.rn/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/Dfi94iulPON/",
+          "title": "Humor / comunidad",
+          "description": "humor/comunidad (viaje) · ♥ 348 · 💬 19 · 2026-11-09 Portada de carrusel lifestyle en Paris: ella con cocktail rojo frente a la piramide del Louvre; marca personal mas que clinica",
+          "types": [
+            "Humor / comunidad"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/beautybybel.rn/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/Der2pj5iUv5/",
+          "title": "Testimonio",
+          "description": "testimonio · ♥ — · 💬 0 · 2026-10-19 Portada de carrusel 'FROM OUR PATIENTS' en serif elegante sobre foto tenue de jeringas, con @ETHEREALMEDSPA.WELLNESS abajo",
+          "types": [
+            "Testimonio"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/beautybybel.rn/pieza-5.jpg",
+          "url": "https://www.instagram.com/p/Dd9aiHuGizn/",
+          "title": "Tarjeta de oferta",
+          "description": "promo (votación) · ♥ 135 · 💬 15 · 2026-10-01 Pieza de nominacion 'The Best Aesthetic Providers in America TOP 100 2027': retrato en blanco sobre cortina crema, tipografia serif negra + script azul",
+          "types": [
+            "Tarjeta de oferta"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "skinologymedspa",
+      "group": "national",
+      "sample": "102.128 seguidores · instagram.com/skinologymedspa Ranking: likes · muestra: top 5 reels de los 50 posteos devueltos por el CLI (limite pedido 25, POST+REEL; media_type video=25, carousel=16, image=9)",
+      "analysis": "Paleta rosa empolvado, nude y blanco con acentos rosa oscuro y dorado suave; fondos crema o rosa liso en las piezas disenadas. Tipografia: logo en script cursiva fina ('Skinology' + MEDSPA en mayusculas espaciadas); titulares en serif elegante blanco y rosa oscuro; cuerpo en sans con tracking amplio. El feed gira casi entero alrededor de un solo servicio, el BBL no quirurgico: reels de reveal frente al espejo, antes/despues lado a lado o con recuadro, y carruseles de resultados. Los reels top usan la reaccion real de la clienta en el espejo como gancho ('OH MY GOD') y cierran con el logo script en la parte inferior. Las promos son graficas limpias con el descuento en grande ($1,000 / $2,000 OFF) y sello de 'LIMITED AVAILABILITY'. Lo distinto: carruseles educativos con ganchos emocionales en primera persona ('NOBODY TOLD ME THIS WAS FIXABLE') y pregunta directa para comentar; casi no hay humor ni comunidad. Marca de agua constante: logo script rosa o blanco en la parte inferior de fotos y reels, y portadas de reel con texto grande disenado.",
+      "missing": [
+        "Faltante: 11 de los 50 posteos traen likes en null (la API no devolvio el conteo); el ranking uso likes y los null quedaron ultimos.; No se capturaron vistas de reels: el endpoint no las entrega.; De los carruseles solo se guardo la portada (thumbnail); las slides interiores no se descargaron.; La tanda devuelta cubre posteos del 2025-11-01 al 2026-11-11 segun el CLI, no solo los ultimos 25."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/skinologymedspa/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/Dfc81z4JR_a/",
+          "title": "#1 · Reel",
+          "description": "♥ 2.038 · 💬 49 · 2026-11-07 Clienta reaccionando frente al espejo al ver su resultado de BBL no quirurgico",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinologymedspa/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DWfI9u-DIF-/",
+          "title": "#2 · Reel",
+          "description": "♥ 1.507 · 💬 66 · 2026-03-29 Reveal frente al espejo con texto 'OH MY GOD' sobre el resultado",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinologymedspa/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/DdO1K13OJEf/",
+          "title": "#3 · Reel",
+          "description": "♥ 1.456 · 💬 24 · 2026-09-13 Portada disenada 'After TWO SESSIONS' sobre foto del resultado de espaldas",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinologymedspa/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/DSs5KuwDnGY/",
+          "title": "#4 · Reel",
+          "description": "♥ 1.207 · 💬 34 · 2025-12-25 Antes/despues con recuadro 'Before' y flechas sobre el resultado",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinologymedspa/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/DbZNDWMuxaN/",
+          "title": "#5 · Reel",
+          "description": "♥ 1.160 · 💬 77 · 2026-07-29 Resultado recien hecho en consultorio, de espaldas frente al espejo (sin texto)",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinologymedspa/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/Dc_c9f8jkAi/",
+          "title": "Antes / después",
+          "description": "carrusel antes/despues · ♥ 1.393 · 💬 18 · 2026-09-07 Antes/despues lado a lado de BBL de 500 mL, fondo crema, logo script rosa abajo",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinologymedspa/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/Dax3qINO4Jv/",
+          "title": "Antes / después",
+          "description": "imagen antes/despues · ♥ 736 · 💬 36 · 2026-07-14 Mitad tratada vs mitad sin tratar en la misma foto, con flechas 'Before Treated / After Treated'",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinologymedspa/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/DfUid2WPR27/",
+          "title": "Tarjeta de oferta",
+          "description": "promo/oferta · ♥ — · 💬 4 · 2026-11-04 Grafica 100K followers: $1,000 OFF 400-500 mL y $2,000 OFF 600 mL o mas, 'LIMITED AVAILABILITY'",
+          "types": [
+            "Tarjeta de oferta"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinologymedspa/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/DatU0PPGv6K/",
+          "title": "Carrusel educativo",
+          "description": "educativo · ♥ — · 💬 6 · 2026-07-12 Portada de carrusel 1/6 con gancho 'NOBODY TOLD ME THIS WAS FIXABLE' y pregunta para comentar",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinologymedspa/pieza-5.jpg",
+          "url": "https://www.instagram.com/p/DagJloDMLgn/",
+          "title": "Imagen suelta / editorial",
+          "description": "otro servicio (labios) · ♥ — · 💬 1 · 2026-07-07 Primer plano de labios con filler, otro servicio fuera del BBL; doble foto casi identica",
+          "types": [
+            "Imagen suelta / editorial"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "skinelixerspa_miami",
+      "group": "national",
+      "sample": "13.728 seguidores · instagram.com/skinelixerspa_miami Ranking: likes · muestra: top 5 reels por likes de los 57 posteos devueltos por la API (POST+REEL; el límite pedido fue 25 pero la herramienta devolvió 57)",
+      "analysis": "Paleta dominante: morado/violeta profundo + dorado + crema/beige, con acentos burdeos en piezas de Elle Beauty Spa. Tipografía serif elegante (estilo editorial) en portadas diseñadas, con mucho aire y texto grande; los reels en cambio usan foto/video crudo con texto sans-serif blanco superpuesto (POV, frases cortas). Formatos que más usa: reels de tratamiento en camilla (primeros planos de piel con glow), portadas diseñadas para botox/peel, carruseles educativos (VI Peel, Skin Talk Series) y antes/después con marco de marca. Contenido bilingüe español/inglés, con CTAs por DM con palabra clave ('GLOW', 'PEEL', 'COLÁGENO'). Lo distintivo: la cara visible es la NP Claudia Llerena (APRN) como autoridad clínica, y varios posteos top son colaboraciones con otras cuentas (Elle Beauty Spa, creadora Yissel), no solo contenido propio.",
+      "missing": [
+        "Faltante: Likes en null en 4 de los 32 reels de la tanda (la API no los devolvió); uno de ellos (reel DRU3o4tAMnc, IV Recovery) tiene 42 comentarios, el mayor de la muestra, pero quedó fuera del top 5 porque el ranking fue por likes.; No se capturaron vistas de reels (la API no las devolvió en ningún post).; El reel top 1 (DQcIpAXjv_f) es una colaboración cuya autora es @yissel_ig, no la cuenta; el thumbnail muestra a la creadora, no a la clínica."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/skinelixerspa_miami/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/DQcIpAXjv_f/",
+          "title": "#1 · Reel",
+          "description": "♥ 98 · 💬 14 · 2025-10-30 09:16:46 Humor: clienta riéndose en clínica; consejo de botox por paquete, no por unidad (colab con creadora Yissel)",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinelixerspa_miami/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DeZ7YoDOnLh/",
+          "title": "#2 · Reel",
+          "description": "♥ 72 · 💬 10 · 2026-10-12 12:02:37 Portada diseñada 'BOTOX RESULTS' con antes/después y 4 beneficios con iconos (marca Elle Beauty Spa)",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinelixerspa_miami/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/DbOvLNPvp08/",
+          "title": "#3 · Reel",
+          "description": "♥ 58 · 💬 2 · 2026-07-25 14:05:36 Primer plano de piel brillante post-facial, clienta acostada en camilla",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinelixerspa_miami/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/DbYB386pEiV/",
+          "title": "#4 · Reel",
+          "description": "♥ 56 · 💬 2 · 2026-07-29 04:47:22 Tratamiento JetPeel en curso con texto POV superpuesto sobre la imagen",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinelixerspa_miami/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/CqSpS46jGOB/",
+          "title": "#5 · Reel",
+          "description": "♥ 54 · 💬 9 · 2023-03-27 04:53:07 Portada de entrevista/podcast con la NP Claudia Llerena como invitada, con logos de sponsors",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/skinelixerspa_miami/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DbBVbEip7I9/",
+          "title": "Antes / después",
+          "description": "antes/después · ♥ 47 · 💬 1 · 2026-07-20 09:09:12 Antes/después de labios con diseño morado y dorado, 4 beneficios con iconos y footer con teléfono y web.",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinelixerspa_miami/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/Dclh0iWlmVD/",
+          "title": "Carrusel educativo",
+          "description": "educativo (portada de carrusel) · ♥ 46 · 💬 0 · 2026-08-28 07:01:10 Portada de carrusel VI Peel: tipografía serif burdeos sobre crema, 'Let's find your match'.",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinelixerspa_miami/pieza-3.jpg",
+          "url": "https://www.instagram.com/reel/Dc4TO3gpAr9/",
+          "title": "Tarjeta de oferta",
+          "description": "promo/oferta · ♥ 45 · 💬 1 · 2026-09-04 14:00:03 Labor Day Special: fotograma de tratamiento Glo2Facial con frase 'Your skin isn't bad, it might just need a reset'.",
+          "types": [
+            "Tarjeta de oferta"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinelixerspa_miami/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/DWXlVhJkXvy/",
+          "title": "Credencial",
+          "description": "testimonio / prueba social · ♥ 94 · 💬 6 · 2026-03-26 17:54:09 Premio 'TOP 3 2026 Award Winner' de BusinessRate, diseño morado con laureles dorados.",
+          "types": [
+            "Credencial"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/skinelixerspa_miami/pieza-5.jpg",
+          "url": "https://www.instagram.com/p/DfX4V1FllRt/",
+          "title": "Portada de carrusel",
+          "description": "portada de carrusel · ♥ 32 · 💬 0 · 2026-11-05 12:22:46 Portada de carrusel 'Your glow starts here' con HydroJelly mask rosa y CTA 'DM GLOW TO BOOK'.",
+          "types": [
+            "Portada de carrusel"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "theprivatesuitela",
+      "group": "national",
+      "sample": "152.740 seguidores · instagram.com/theprivatesuitela Ranking: likes · muestra: top 5 de los últimos 25 posteos (POST+REEL)",
+      "analysis": "Paleta: azul marino + azul celeste + dorado sobre blanco amplio; en los reels, título serif amarillo pálido sobre el video. Tipografía: serif elegante estilo editorial de revista para los títulos; sans pequeña en mayúsculas con tracking para etiquetas ('PERIMENOPAUSE · NUTRITION', 'PRECISION LONGEVITY™'). Formato dominante en reels: talking-head a cámara de la fundadora (Cheyanne Mallas), plano cercano, mismo fondo doméstico con cuadros azul-turquesa; título-pregunta arriba ('After 40...', 'Waking up at 3 a.m....'). Carruseles educativos con portada de alto diseño: foto real arriba + bloque de color abajo con título serif, y paginación '01/06 · Swipe →'. Contenido centrado en mujeres 40+: perimenopausia, sueño, composición corporal y estructura facial; tono médico-divulgativo con la marca 'Precision Longevity™' en casi todo. Lo distinto: mezcla clínica premium (frameworks propios como '12 Pillars', plataforma Halcyon) con estética editorial de revista y prueba social (portada de revista, Forbes 3× en la bio); casi no hay promos ni precios: vende autoridad, no ofertas. El antes/después es crudo y directo (cuello en primer plano, sin retoque evidente), en contraste con portadas muy pulidas.",
+      "missing": [
+        "Faltante: El CLI devolvió 52 posteos en vez de 25 (25 POST + 27 REEL); el ranking se hizo sobre los 25 más recientes por fecha, como indica sample_note. Dos reels de ene-2023 con ~1000 likes quedaron fuera de esa ventana reciente.; No se capturaron vistas de reels: la API no devolvió view_count; ranking por likes.; No se encontró en la tanda ningún ejemplo de promo/oferta con precio ni de humor/comunidad; la cuenta no publica ese tipo de pieza en el período revisado (ene–nov 2026).; Varios reels recientes de la tanda muestran likes de 1–4 (posible dato parcial de la API); no afectan al top 5.; Ningún 429 ni bloqueo; las 10 imágenes se verificaron visualmente, ninguna salió en negro o en blanco."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/theprivatesuitela/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/Dehn9c3vm6E/",
+          "title": "#1 · Reel",
+          "description": "♥ 528 · 💬 8 · 2026-10-15 11:41:37 Talking-head de la fundadora: por qué cambia la grasa corporal en perimenopausia/menopausia.",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/theprivatesuitela/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DfV9Ppkqknr/",
+          "title": "#2 · Reel",
+          "description": "♥ 376 · 💬 7 · 2026-11-04 18:28:26 Talking-head: cómo volver a dormirse tras despertar a las 3 a.m. después de los 40.",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/theprivatesuitela/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/DfNEkCIKawW/",
+          "title": "#3 · Reel",
+          "description": "♥ 308 · 💬 11 · 2026-11-01 07:39:28 Talking-head: el despertar nocturno no siempre es por cortisol; varias causas en perimenopausia.",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/theprivatesuitela/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/De74zunvImY/",
+          "title": "#4 · Reel",
+          "description": "♥ 284 · 💬 10 · 2026-10-25 16:29:18 Talking-head: la balanza esconde la ganancia de grasa y pérdida de músculo tras los 40.",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/theprivatesuitela/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/DeQjzLRK_mD/",
+          "title": "#5 · Reel",
+          "description": "♥ 268 · 💬 11 · 2026-10-08 20:38:29 Plano entero sentada en taburete con su perro: por qué el Botox dura menos (dosis, colocación, patrón).",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/theprivatesuitela/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DfkW-6sGheb/",
+          "title": "Carrusel educativo",
+          "description": "portada de carrusel educativo · ♥ 256 · 💬 7 · 2026-11-10 08:41:24 Portada editorial 'Love is Medicine.': hélice de ADN azul vidrio a la izquierda, serif negro sobre blanco, firma 'The Private Suite LA →'.",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/theprivatesuitela/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/DeuFpklGzxf/",
+          "title": "Carrusel educativo",
+          "description": "portada de carrusel educativo · ♥ 241 · 💬 9 · 2026-10-20 07:50:57 Foto real de alimentos arriba y bloque azul marino abajo con título serif blanco y acento dorado en itálica; etiqueta 'PERIMENOPAUSE · NUTRITION' y paginación '01 / 06 · Swipe →'.",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/theprivatesuitela/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/DVR8U-NEqhf/",
+          "title": "Carrusel educativo",
+          "description": "imagen suelta educativa (infografía) · ♥ 581 · 💬 10 · 2026-02-27 15:50:30 Infografía en rueda 'The 12 Pillars of Structural Aging' en tonos azules, marco 'Precision Longevity™'. Es la imagen suelta con más likes de la tanda.",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/theprivatesuitela/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/Dd2OCb1D-6A/",
+          "title": "Credencial",
+          "description": "institucional/prensa · ♥ 264 · 💬 8 · 2026-09-28 15:06:47 Portada de revista CIO Insightful (sep 2026) con la fundadora Cheyanne Mallas, negro y dorado, con QR; anuncia Precision Aging Institute + Halcyon.",
+          "types": [
+            "Credencial"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/theprivatesuitela/pieza-5.jpg",
+          "url": "https://www.instagram.com/p/DT1Bt-eEgtl/",
+          "title": "Antes / después",
+          "description": "antes/después · ♥ 214 · 💬 57 · 2026-01-22 13:45:57 Antes/después de cuello (Non-Surgical Neck Lift): primer plano dividido con rótulos BEFORE / AFTER. Es el post con más comentarios de la tanda (57).",
+          "types": [
+            "Antes / después"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    },
+    {
+      "handle": "bleuspany",
+      "group": "national",
+      "sample": "136.188 seguidores · instagram.com/bleuspany Ranking: likes · muestra: Top 5 reels propios de bleuspany (16 reels propios en la tanda REEL de 36; los 20 restantes eran collabs de otras cuentas). La tanda inicial POST+REEL (25) no contenía ningún reel, por eso se hizo la llamada extra REEL --limit 20, que devolvió 36 reels.",
+      "analysis": "Paleta: negro + dorado en las piezas diseñadas (logo BSB dorado, franja dorada), azul marino en uniformes; el resto del feed es foto real sin filtro marcado, tonos cálidos de piel y blanco clínico. Tipografía: en gráficas, serif elegante para el titular en inglés ('Do you have...', 'Myer's Cocktail') combinada con script fina ('Cuerpo sano') y sans bold para el cuerpo; los reels llevan texto blanco simple sobre el video (@bleuspany, dirección). Formatos que más usa: reels verticales de tratamiento en curso (plano cenital, primer plano del rostro), fotos espontáneas de clientas y retratos de la fundadora; carruseles educativos con portada diseñada. Qué hace distinto: vende el resultado con la cara de la clienta en primer plano y el dispositivo visible (SkinPen, Glacé, Hollywood Spectra); cada reel nombra el equipo de marca y cierra con teléfono (917)353-0017 y dirección. Bilingüe real: captions mezclan inglés y español en el mismo post, con hashtags de marca (#bleuspany, #bleuspanyc) y del dispositivo. El contenido de mayor engagement es comunitario/celebridad (3.502 likes la selfie con la artista) más que el educativo, que ronda 9-75 likes. Sin antes/después explícito en la muestra: el 'después' es el glow de la clienta en selfie o en camilla, no una comparativa lado a lado.",
+      "missing": [
+        "Faltante: Vistas de reels: el CLI no devuelve view_count, solo likes y comentarios; el ranking se hizo por likes.; La tanda inicial POST+REEL (25) no trajo ningún reel: los top 5 reels salen de la llamada extra REEL --limit 20 (36 reels devueltos).; Reels de collabs con otras cuentas (ej. yarlenys_vargas con 26.948 likes) no se incluyeron en el top 5 porque no son posteos propios de bleuspany.; No se capturó antes/después comparativo: no apareció ninguno en la muestra de 25 ni entre los reels propios."
+      ],
+      "items": [
+        {
+          "image": "inspiracion/bleuspany/reel-1.jpg",
+          "url": "https://www.instagram.com/reel/Dd_pBnKxWgg/",
+          "title": "#1 · Reel",
+          "description": "♥ 168 · 💬 6 · 2026-10-02 06:58:08 Cliente recibiendo hidrodermoabrasión Glacé by Candela en camilla, plano cenital.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/bleuspany/reel-2.jpg",
+          "url": "https://www.instagram.com/reel/DeNoNC-RtJC/",
+          "title": "#2 · Reel",
+          "description": "♥ 59 · 💬 4 · 2026-10-07 17:23:50 Clienta con protectores oculares metálicos durante láser Hollywood Spectra; texto con la dirección del spa.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/bleuspany/reel-3.jpg",
+          "url": "https://www.instagram.com/reel/DdPxl_LR2ZL/",
+          "title": "#3 · Reel",
+          "description": "♥ 53 · 💬 1 · 2026-09-13 16:50:26 Selfie al sol de una clienta mostrando el glow tras Dermaplaning + Glacé.",
+          "types": [
+            "Reel a cámara"
+          ],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/bleuspany/reel-4.jpg",
+          "url": "https://www.instagram.com/reel/Dc7IzKVxRzd/",
+          "title": "#4 · Reel",
+          "description": "♥ 42 · 💬 5 · 2026-09-05 16:28:26 Primer plano cenital del rostro de una clienta (pestañas y cejas) antes de un evento.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/bleuspany/reel-5.jpg",
+          "url": "https://www.instagram.com/reel/DfaaWH4sIFA/",
+          "title": "#5 · Reel",
+          "description": "♥ 26 · 💬 0 · 2026-11-06 12:01:25 Microneedling SkinPen en curso con guantes azules y el kit de producto en primer plano.",
+          "types": [],
+          "format": "Reel"
+        },
+        {
+          "image": "inspiracion/bleuspany/pieza-1.jpg",
+          "url": "https://www.instagram.com/p/DG6P8lvxH-g/",
+          "title": "Humor / comunidad",
+          "description": "comunidad/celebridad · ♥ 3.502 · 💬 81 · 2025-03-07 11:38:21 Selfie de una artista clienta con la fundadora Lissette junto al equipo láser LumiMax; foto espontánea, sin diseño.",
+          "types": [
+            "Humor / comunidad"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/bleuspany/pieza-2.jpg",
+          "url": "https://www.instagram.com/p/DFumyn_RFHt/",
+          "title": "Humor / comunidad",
+          "description": "comunidad/fundadora · ♥ 220 · 💬 83 · 2025-02-06 02:35:41 Retrato de estudio de la fundadora Lissette en uniforme azul marino sobre fondo gris claro.",
+          "types": [
+            "Humor / comunidad"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/bleuspany/pieza-3.jpg",
+          "url": "https://www.instagram.com/p/DQUKGqHEbUq/",
+          "title": "Tarjeta de oferta",
+          "description": "promo/educativo diseñado · ♥ 291 · 💬 0 · 2025-10-27 06:50:06 Gráfica diseñada del Myer's Cocktail IV: logo dorado BSB, titular blanco grande, franja dorada y foto del tratamiento.",
+          "types": [
+            "Tarjeta de oferta"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/bleuspany/pieza-4.jpg",
+          "url": "https://www.instagram.com/p/DexWCLaIGft/",
+          "title": "Carrusel educativo",
+          "description": "portada de carrusel educativo · ♥ 9 · 💬 0 · 2026-10-21 14:11:50 Portada de carrusel sobre drenaje linfático: fondo negro, titular serif blanco 'Do you have puffiness or bloating?', foto de abdomen.",
+          "types": [
+            "Carrusel educativo"
+          ],
+          "format": "Pieza gráfica"
+        },
+        {
+          "image": "inspiracion/bleuspany/pieza-5.jpg",
+          "url": "https://www.instagram.com/p/DWHOPoJFjbI/",
+          "title": "Imagen suelta / editorial",
+          "description": "carrusel inspiración (uñas) · ♥ 75 · 💬 6 · 2026-03-20 09:24:31 Moodboard 2x2 en tonos azules: tulipanes, uñas ombré y blancas, mar; collab con @bleuspa_nailsbyana.",
+          "types": [
+            "Imagen suelta / editorial"
+          ],
+          "format": "Pieza gráfica"
+        }
+      ]
+    }
+  ]
+}
