@@ -167,7 +167,7 @@ def card(handle, img, url, title, subtitle, badge=""):
     )
 
 
-def main():
+def _legacy_main():
     data = {}
     for h in ORDER:
         path = os.path.join(BASE, h, "datos.json")
@@ -377,6 +377,10 @@ function showView(v) {{
     for t in TYPE_ORDER:
         print(f"  tipo {t}: {len(by_type[t])}")
 
+
+def main():
+    from portal_ux import build_inspiration
+    build_inspiration()
 
 if __name__ == "__main__":
     main()

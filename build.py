@@ -65,7 +65,7 @@ var PORTAL_PASSWORD = "MuViProject2026";
     var email = document.getElementById('gate-email').value.trim().toLowerCase();
     var pass = document.getElementById('gate-pass').value;
     var err = document.getElementById('gate-err');
-    var okEmail = (email === 'musadaniel@gmail.com') || (email.slice(-14) === '@muviproject.com');
+    var okEmail = (email === 'musadaniel@gmail.com') || email.endsWith('@muviproject.com');
     if (!okEmail) {
       err.textContent = 'Usá tu email de MuViProject (musadaniel@gmail.com o @muviproject.com).';
       return;
@@ -82,7 +82,7 @@ var PORTAL_PASSWORD = "MuViProject2026";
 </script>
 """
 
-def main():
+def _legacy_main():
     html = SRC.read_text(encoding="utf-8")
     if "id=\"gate\"" in html:
         raise SystemExit("el archivo maestro ya trae la cortina; no regenerar desde index.html")
@@ -96,6 +96,10 @@ def main():
         build_inspiracion.main()
     except Exception as e:
         print(f"AVISO: inspiración no se regeneró: {e}")
+
+def main():
+    from portal_ux import build
+    build()
 
 if __name__ == "__main__":
     main()
