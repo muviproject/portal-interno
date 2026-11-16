@@ -28,8 +28,8 @@ def build_knowledge():
       <div class="hero"><div><span class="eyebrow">Prioridad de investigación</span><h2>Inspiración nacional, con contexto.</h2><p>Explora las cuentas de referencia y sus piezas. Compara el formato y el concepto antes de adaptar una idea a la marca.</p><a class="button primary" href="inspiracion.html">Explorar referencias</a></div><aside><strong>15 cuentas</strong><span>75 reels · 74 piezas gráficas</span><small>Captura archivada: 14 nov 2026</small></aside></div>
       <p class="notice">Uso interno. Al portal del cliente van los análisis y las propuestas seleccionadas, no este archivo de referencias.</p>
       <h2 class="section-title">Consultar por tema</h2>'''
-    labels = {'top10': 'Referencias nacionales', 'miami': 'Contexto de Miami', 'resumen': 'Hallazgos de la investigación', 'sistema': 'Sistema de elementos', 'marca': 'Marca Med Aesthetics Miami', 'rosanna': 'Archivo de Vallure', 'clientes': 'Ficha del cliente', 'fuentes': 'Fuentes y límites de la muestra'}
-    ordered = ['top10', 'resumen', 'sistema', 'marca', 'miami', 'rosanna', 'clientes', 'fuentes']
+    labels = {'top10': 'Referencias nacionales', 'miami': 'Contexto de Miami', 'resumen': 'Hallazgos de la investigación', 'novedades': 'Novedades — 14–15 nov 2026', 'sistema': 'Sistema de elementos', 'marca': 'Marca Med Aesthetics Miami', 'rosanna': 'Archivo de Vallure', 'clientes': 'Ficha del cliente', 'fuentes': 'Fuentes y límites de la muestra'}
+    ordered = ['top10', 'resumen', 'novedades', 'sistema', 'marca', 'miami', 'rosanna', 'clientes', 'fuentes']
     ordered += [k for k in lookup if k not in ordered]
     for ident in ordered:
         if ident not in lookup:
