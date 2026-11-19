@@ -7,11 +7,12 @@ from build import GATE_CSS, GATE_HTML
 
 ROOT = Path(__file__).resolve().parent
 E = html.escape
+SCRIPT_EDITOR_URL = 'https://muviproject-guiones-med-aesthetics.elinava80.chatgpt.site'
 
 
 def shell(title, active, body):
     body = '\n'.join(line.rstrip() for line in body.splitlines())
-    nav = ''.join(f'<a href="{href}"' + (' aria-current="page"' if active == href else '') + f'>{label}</a>' for href, label in [('index.html', 'Conocimiento'), ('inspiracion.html', 'Inspiración')])
+    nav = ''.join(f'<a href="{href}"' + (' aria-current="page"' if active == href else '') + f'>{label}</a>' for href, label in [('index.html', 'Conocimiento'), ('inspiracion.html', 'Biblioteca')])
     return f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{E(title)} · MuViProject</title>{GATE_CSS}<link rel="stylesheet" href="portal.css"></head>
       <body><a class="skip" href="#contenido">Saltar al contenido</a>{GATE_HTML}
       <header class="masthead"><div class="wrap"><a class="wordmark" href="index.html">MuVi<span>Project</span></a><span class="internal-label">Portal interno · Med Aesthetics Miami</span></div></header>
@@ -43,7 +44,10 @@ def build_inspiration():
     data = json.loads((ROOT / 'source/inspiration.json').read_text(encoding='utf-8'))
     accounts = sorted(data['accounts'], key=lambda a: a['group'] != 'national')
     types = sorted({t for a in accounts for r in a['items'] for t in r['types']})
-    body = '''<div class="heading"><p class="eyebrow">Biblioteca de referencias</p><h1>Ideas que vale la pena estudiar.</h1><p>Reels, formatos y conceptos para adaptar a Med Aesthetics Miami. Las referencias nacionales aparecen primero.</p></div>
+    body = f'''<nav class="library-tabs" aria-label="Secciones de la biblioteca">
+      <a class="button" href="inspiracion.html" aria-current="page">Inspiración</a>
+      <a class="button" href="{SCRIPT_EDITOR_URL}">Guiones</a>
+      </nav><div class="heading"><p class="eyebrow">Biblioteca de referencias</p><h1>Ideas que vale la pena estudiar.</h1><p>Reels, formatos y conceptos para adaptar a Med Aesthetics Miami. Las referencias nacionales aparecen primero.</p></div>
       <details class="method"><summary>Qué incluye esta captura · 14 nov 2026</summary><p>15 cuentas, 75 reels seleccionados y 74 piezas distintas. Los reels se ordenaron principalmente por likes dentro de la muestra de cada cuenta, no por reproducciones ni por todo el histórico. Algunas cuentas se ordenaron por comentarios. Las muestras tienen fechas y tamaños diferentes.</p><p>Las descripciones e imágenes son las archivadas: no equivalen a una revisión completa del video. De los carruseles solo se capturó la portada. «—» significa dato no disponible, nunca cero.</p></details>
       <form class="filters" role="search" onsubmit="return false">
       <label class="search">Buscar referencia<input id="query" type="search" placeholder="Morpheus8, humor, testimonio…"></label>
